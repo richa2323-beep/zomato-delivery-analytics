@@ -1,0 +1,2001 @@
+order_id,city,cuisine,order_value_inr,discount_applied_inr,delivery_time_mins,customer_rating,payment_mode,platform_commission_inr
+ORD20260000,Delhi NCR,North Indian,272.0,200,32,5,UPI,59.84
+ORD20260001,Delhi NCR,Pizza/Fast Food,255.0,100,38,5,UPI,56.1
+ORD20260002,Bengaluru,Chinese,617.0,0,34,5,Cash on Delivery,135.74
+ORD20260003,Bengaluru,Chinese,300.0,100,34,4,Credit Card,66.0
+ORD20260004,Mumbai,Pizza/Fast Food,279.0,0,29,3,UPI,61.38
+ORD20260005,Mumbai,Biryani,476.0,0,23,5,UPI,104.72
+ORD20260006,Bengaluru,Pizza/Fast Food,803.0,200,31,5,UPI,176.66
+ORD20260007,Hyderabad,North Indian,641.0,50,42,4,Debit Card,141.02
+ORD20260008,Mumbai,South Indian,432.0,50,45,1,UPI,95.04
+ORD20260009,Bengaluru,Chinese,187.0,100,30,5,Cash on Delivery,41.14
+ORD20260010,Delhi NCR,Pizza/Fast Food,284.0,200,15,5,Cash on Delivery,62.48
+ORD20260011,Delhi NCR,Biryani,381.0,0,52,1,UPI,83.82
+ORD20260012,Bengaluru,Biryani,610.0,150,28,5,UPI,134.2
+ORD20260013,Mumbai,Biryani,487.0,100,50,4,Credit Card,107.14
+ORD20260014,Hyderabad,Desserts,332.0,0,21,1,UPI,73.04
+ORD20260015,Bengaluru,North Indian,393.0,100,52,5,Cash on Delivery,86.46
+ORD20260016,Bengaluru,North Indian,229.0,0,36,3,UPI,50.38
+ORD20260017,Delhi NCR,Chinese,722.0,0,24,5,UPI,158.84
+ORD20260018,Mumbai,Pizza/Fast Food,573.0,150,44,3,UPI,126.06
+ORD20260019,Bengaluru,North Indian,563.0,50,50,4,UPI,123.86
+ORD20260020,Mumbai,Pizza/Fast Food,403.0,0,18,4,Credit Card,88.66
+ORD20260021,Delhi NCR,North Indian,213.0,50,25,3,UPI,46.86
+ORD20260022,Bengaluru,North Indian,377.0,50,32,3,UPI,82.94
+ORD20260023,Bengaluru,Biryani,283.0,50,24,3,UPI,62.26
+ORD20260024,Bengaluru,Desserts,319.0,0,43,4,UPI,70.18
+ORD20260025,Hyderabad,North Indian,535.0,100,31,4,Cash on Delivery,117.7
+ORD20260026,Delhi NCR,Biryani,1338.0,50,74,5,Credit Card,294.36
+ORD20260027,Delhi NCR,Biryani,215.0,150,47,4,UPI,47.3
+ORD20260028,Mumbai,Desserts,755.0,100,23,3,UPI,166.1
+ORD20260029,Delhi NCR,Pizza/Fast Food,168.0,150,32,5,UPI,36.96
+ORD20260030,Hyderabad,Pizza/Fast Food,372.0,200,54,4,UPI,81.84
+ORD20260031,Mumbai,Pizza/Fast Food,317.0,100,40,5,UPI,69.74
+ORD20260032,Delhi NCR,Chinese,1064.0,0,50,5,UPI,234.08
+ORD20260033,Delhi NCR,Chinese,438.0,0,43,4,UPI,96.36
+ORD20260034,Hyderabad,Pizza/Fast Food,325.0,150,31,5,UPI,71.5
+ORD20260035,Bengaluru,South Indian,606.0,100,29,4,Cash on Delivery,133.32
+ORD20260036,Hyderabad,Biryani,483.0,200,51,3,UPI,106.26
+ORD20260037,Mumbai,South Indian,387.0,50,39,3,UPI,85.14
+ORD20260038,Delhi NCR,Biryani,553.0,50,32,4,UPI,121.66
+ORD20260039,Hyderabad,Pizza/Fast Food,149.0,50,66,4,Debit Card,32.78
+ORD20260040,Bengaluru,North Indian,375.0,200,25,5,UPI,82.5
+ORD20260041,Bengaluru,North Indian,496.0,0,28,5,UPI,109.12
+ORD20260042,Mumbai,Biryani,407.0,50,47,2,Credit Card,89.54
+ORD20260043,Hyderabad,North Indian,345.0,200,56,4,Debit Card,75.9
+ORD20260044,Bengaluru,Chinese,379.0,50,53,5,UPI,83.38
+ORD20260045,Bengaluru,Desserts,335.0,150,23,4,Debit Card,73.7
+ORD20260046,Mumbai,Pizza/Fast Food,562.0,0,23,3,UPI,123.64
+ORD20260047,Bengaluru,Chinese,520.0,0,38,4,UPI,114.4
+ORD20260048,Mumbai,Biryani,371.0,50,36,4,Credit Card,81.62
+ORD20260049,Delhi NCR,North Indian,215.0,0,35,4,UPI,47.3
+ORD20260050,Mumbai,Biryani,289.0,150,39,5,UPI,63.58
+ORD20260051,Delhi NCR,North Indian,488.0,50,17,4,UPI,107.36
+ORD20260052,Bengaluru,Desserts,680.0,100,50,2,Debit Card,149.6
+ORD20260053,Bengaluru,North Indian,743.0,50,40,4,Cash on Delivery,163.46
+ORD20260054,Delhi NCR,South Indian,286.0,50,49,3,Cash on Delivery,62.92
+ORD20260055,Bengaluru,Chinese,345.0,200,43,2,UPI,75.9
+ORD20260056,Delhi NCR,Chinese,377.0,0,31,4,UPI,82.94
+ORD20260057,Bengaluru,Biryani,465.0,50,26,3,Credit Card,102.3
+ORD20260058,Bengaluru,Pizza/Fast Food,442.0,0,38,4,UPI,97.24
+ORD20260059,Bengaluru,Biryani,222.0,0,28,4,UPI,48.84
+ORD20260060,Delhi NCR,Biryani,582.0,200,31,4,UPI,128.04
+ORD20260061,Hyderabad,North Indian,305.0,0,51,3,UPI,67.1
+ORD20260062,Hyderabad,Pizza/Fast Food,949.0,150,38,5,Credit Card,208.78
+ORD20260063,Delhi NCR,Pizza/Fast Food,292.0,0,35,4,Cash on Delivery,64.24
+ORD20260064,Delhi NCR,Pizza/Fast Food,622.0,100,58,5,UPI,136.84
+ORD20260065,Delhi NCR,North Indian,964.0,150,53,5,Cash on Delivery,212.08
+ORD20260066,Bengaluru,Pizza/Fast Food,296.0,100,37,4,UPI,65.12
+ORD20260067,Bengaluru,Biryani,513.0,0,31,5,Cash on Delivery,112.86
+ORD20260068,Bengaluru,South Indian,280.0,100,48,4,UPI,61.6
+ORD20260069,Delhi NCR,Biryani,172.0,100,35,5,Credit Card,37.84
+ORD20260070,Mumbai,Desserts,332.0,0,16,4,UPI,73.04
+ORD20260071,Mumbai,Chinese,308.0,100,50,5,Cash on Delivery,67.76
+ORD20260072,Mumbai,North Indian,254.0,50,59,3,UPI,55.88
+ORD20260073,Delhi NCR,North Indian,720.0,100,19,3,UPI,158.4
+ORD20260074,Mumbai,Biryani,149.0,50,18,4,UPI,32.78
+ORD20260075,Bengaluru,Chinese,245.0,150,43,4,UPI,53.9
+ORD20260076,Mumbai,Pizza/Fast Food,325.0,50,40,4,Debit Card,71.5
+ORD20260077,Delhi NCR,Biryani,491.0,100,33,4,Debit Card,108.02
+ORD20260078,Mumbai,Chinese,367.0,0,15,4,UPI,80.74
+ORD20260079,Bengaluru,North Indian,413.0,50,25,5,Cash on Delivery,90.86
+ORD20260080,Mumbai,North Indian,512.0,100,36,5,UPI,112.64
+ORD20260081,Mumbai,North Indian,855.0,100,30,5,UPI,188.1
+ORD20260082,Mumbai,Biryani,506.0,0,39,5,Cash on Delivery,111.32
+ORD20260083,Delhi NCR,North Indian,427.0,0,15,5,UPI,93.94
+ORD20260084,Hyderabad,North Indian,211.0,50,37,5,UPI,46.42
+ORD20260085,Bengaluru,Desserts,157.0,0,27,3,UPI,34.54
+ORD20260086,Bengaluru,Pizza/Fast Food,328.0,100,50,3,UPI,72.16
+ORD20260087,Bengaluru,North Indian,377.0,50,25,5,UPI,82.94
+ORD20260088,Bengaluru,Chinese,277.0,200,66,5,Debit Card,60.94
+ORD20260089,Hyderabad,Biryani,502.0,0,17,5,Credit Card,110.44
+ORD20260090,Bengaluru,Pizza/Fast Food,364.0,200,47,5,UPI,80.08
+ORD20260091,Delhi NCR,Biryani,465.0,150,49,3,Credit Card,102.3
+ORD20260092,Delhi NCR,Biryani,274.0,50,48,4,Credit Card,60.28
+ORD20260093,Delhi NCR,North Indian,406.0,200,42,5,UPI,89.32
+ORD20260094,Bengaluru,Pizza/Fast Food,519.0,100,30,4,UPI,114.18
+ORD20260095,Mumbai,Biryani,435.0,0,43,3,UPI,95.7
+ORD20260096,Delhi NCR,Chinese,234.0,200,44,4,UPI,51.48
+ORD20260097,Delhi NCR,Chinese,753.0,100,40,4,Cash on Delivery,165.66
+ORD20260098,Mumbai,Biryani,435.0,50,37,4,UPI,95.7
+ORD20260099,Mumbai,South Indian,570.0,150,28,4,UPI,125.4
+ORD20260100,Mumbai,North Indian,308.0,50,53,1,Cash on Delivery,67.76
+ORD20260101,Bengaluru,North Indian,469.0,0,40,3,Credit Card,103.18
+ORD20260102,Delhi NCR,Pizza/Fast Food,481.0,0,52,5,UPI,105.82
+ORD20260103,Bengaluru,North Indian,409.0,0,34,5,Debit Card,89.98
+ORD20260104,Hyderabad,Biryani,253.0,150,26,3,Credit Card,55.66
+ORD20260105,Bengaluru,North Indian,697.0,0,45,4,Credit Card,153.34
+ORD20260106,Bengaluru,Biryani,234.0,100,34,5,UPI,51.48
+ORD20260107,Bengaluru,North Indian,543.0,0,38,5,UPI,119.46
+ORD20260108,Hyderabad,Pizza/Fast Food,674.0,50,37,5,Credit Card,148.28
+ORD20260109,Delhi NCR,Pizza/Fast Food,269.0,100,21,4,UPI,59.18
+ORD20260110,Mumbai,Chinese,515.0,0,44,5,Cash on Delivery,113.3
+ORD20260111,Hyderabad,Pizza/Fast Food,383.0,0,30,4,UPI,84.26
+ORD20260112,Mumbai,Pizza/Fast Food,478.0,150,21,5,UPI,105.16
+ORD20260113,Delhi NCR,Chinese,769.0,100,35,3,Cash on Delivery,169.18
+ORD20260114,Hyderabad,Biryani,542.0,200,23,5,UPI,119.24
+ORD20260115,Mumbai,Pizza/Fast Food,149.0,200,35,5,UPI,32.78
+ORD20260116,Bengaluru,North Indian,539.0,0,32,5,UPI,118.58
+ORD20260117,Mumbai,Biryani,331.0,100,23,4,Cash on Delivery,72.82
+ORD20260118,Mumbai,Biryani,606.0,200,38,5,Credit Card,133.32
+ORD20260119,Delhi NCR,Chinese,717.0,150,22,5,Cash on Delivery,157.74
+ORD20260120,Bengaluru,Biryani,319.0,0,59,4,Debit Card,70.18
+ORD20260121,Mumbai,Pizza/Fast Food,746.0,50,15,5,UPI,164.12
+ORD20260122,Mumbai,North Indian,376.0,100,46,3,UPI,82.72
+ORD20260123,Delhi NCR,North Indian,149.0,0,39,4,Credit Card,32.78
+ORD20260124,Delhi NCR,North Indian,393.0,100,29,4,UPI,86.46
+ORD20260125,Delhi NCR,North Indian,676.0,0,32,5,UPI,148.72
+ORD20260126,Bengaluru,Chinese,812.0,0,20,4,Cash on Delivery,178.64
+ORD20260127,Mumbai,Chinese,719.0,100,47,5,UPI,158.18
+ORD20260128,Delhi NCR,North Indian,991.0,50,55,5,Credit Card,218.02
+ORD20260129,Mumbai,Chinese,389.0,100,48,4,UPI,85.58
+ORD20260130,Delhi NCR,Chinese,454.0,100,17,5,UPI,99.88
+ORD20260131,Delhi NCR,Pizza/Fast Food,271.0,0,42,3,Credit Card,59.62
+ORD20260132,Bengaluru,Biryani,935.0,50,50,5,UPI,205.7
+ORD20260133,Hyderabad,North Indian,263.0,0,38,4,Cash on Delivery,57.86
+ORD20260134,Bengaluru,North Indian,397.0,50,37,5,Cash on Delivery,87.34
+ORD20260135,Delhi NCR,Chinese,600.0,50,48,4,UPI,132.0
+ORD20260136,Delhi NCR,Pizza/Fast Food,600.0,100,31,4,Credit Card,132.0
+ORD20260137,Bengaluru,Pizza/Fast Food,596.0,0,67,4,UPI,131.12
+ORD20260138,Hyderabad,Pizza/Fast Food,449.0,0,62,4,UPI,98.78
+ORD20260139,Bengaluru,South Indian,705.0,100,56,1,Credit Card,155.1
+ORD20260140,Delhi NCR,Biryani,568.0,50,28,4,UPI,124.96
+ORD20260141,Bengaluru,Pizza/Fast Food,294.0,0,62,3,Cash on Delivery,64.68
+ORD20260142,Mumbai,Biryani,260.0,100,36,5,UPI,57.2
+ORD20260143,Hyderabad,Biryani,367.0,100,27,4,UPI,80.74
+ORD20260144,Mumbai,Biryani,215.0,50,61,5,UPI,47.3
+ORD20260145,Bengaluru,Pizza/Fast Food,429.0,100,53,5,Credit Card,94.38
+ORD20260146,Hyderabad,Chinese,294.0,200,42,3,Debit Card,64.68
+ORD20260147,Delhi NCR,Pizza/Fast Food,378.0,0,18,4,UPI,83.16
+ORD20260148,Delhi NCR,Pizza/Fast Food,408.0,0,30,4,Cash on Delivery,89.76
+ORD20260149,Hyderabad,South Indian,645.0,200,36,1,UPI,141.9
+ORD20260150,Bengaluru,North Indian,295.0,150,37,4,Debit Card,64.9
+ORD20260151,Mumbai,South Indian,457.0,100,35,4,UPI,100.54
+ORD20260152,Bengaluru,North Indian,970.0,100,50,5,Credit Card,213.4
+ORD20260153,Hyderabad,North Indian,477.0,200,18,3,Credit Card,104.94
+ORD20260154,Bengaluru,South Indian,237.0,0,46,3,Debit Card,52.14
+ORD20260155,Delhi NCR,Chinese,1309.0,0,32,4,Cash on Delivery,287.98
+ORD20260156,Hyderabad,Chinese,519.0,150,43,1,UPI,114.18
+ORD20260157,Hyderabad,North Indian,666.0,0,45,5,UPI,146.52
+ORD20260158,Bengaluru,North Indian,590.0,50,15,3,UPI,129.8
+ORD20260159,Hyderabad,Biryani,472.0,150,15,4,UPI,103.84
+ORD20260160,Delhi NCR,Biryani,567.0,0,43,5,UPI,124.74
+ORD20260161,Hyderabad,Biryani,621.0,200,51,3,Credit Card,136.62
+ORD20260162,Delhi NCR,Chinese,278.0,100,15,5,UPI,61.16
+ORD20260163,Bengaluru,Biryani,481.0,50,34,3,Credit Card,105.82
+ORD20260164,Delhi NCR,Biryani,280.0,0,60,5,UPI,61.6
+ORD20260165,Delhi NCR,Pizza/Fast Food,1105.0,0,34,4,Credit Card,243.1
+ORD20260166,Delhi NCR,Pizza/Fast Food,566.0,0,35,3,UPI,124.52
+ORD20260167,Delhi NCR,Pizza/Fast Food,472.0,150,32,3,UPI,103.84
+ORD20260168,Bengaluru,Biryani,413.0,100,37,5,UPI,90.86
+ORD20260169,Mumbai,Chinese,389.0,200,25,5,Credit Card,85.58
+ORD20260170,Mumbai,Pizza/Fast Food,149.0,0,52,2,UPI,32.78
+ORD20260171,Hyderabad,South Indian,224.0,0,50,5,UPI,49.28
+ORD20260172,Bengaluru,Chinese,182.0,100,38,4,Credit Card,40.04
+ORD20260173,Delhi NCR,Pizza/Fast Food,584.0,0,40,4,UPI,128.48
+ORD20260174,Bengaluru,Chinese,583.0,100,37,2,UPI,128.26
+ORD20260175,Bengaluru,Biryani,556.0,50,18,4,UPI,122.32
+ORD20260176,Mumbai,Chinese,697.0,150,38,3,UPI,153.34
+ORD20260177,Hyderabad,North Indian,422.0,100,37,5,Cash on Delivery,92.84
+ORD20260178,Hyderabad,Chinese,256.0,0,38,3,UPI,56.32
+ORD20260179,Mumbai,North Indian,343.0,50,45,2,UPI,75.46
+ORD20260180,Hyderabad,North Indian,433.0,50,36,4,UPI,95.26
+ORD20260181,Delhi NCR,North Indian,781.0,100,27,3,UPI,171.82
+ORD20260182,Bengaluru,Biryani,740.0,50,51,4,Debit Card,162.8
+ORD20260183,Bengaluru,Pizza/Fast Food,149.0,150,25,5,Cash on Delivery,32.78
+ORD20260184,Bengaluru,Biryani,228.0,50,55,4,Credit Card,50.16
+ORD20260185,Bengaluru,Pizza/Fast Food,683.0,100,17,3,UPI,150.26
+ORD20260186,Bengaluru,Chinese,546.0,150,55,4,UPI,120.12
+ORD20260187,Hyderabad,Pizza/Fast Food,286.0,50,34,5,UPI,62.92
+ORD20260188,Mumbai,Desserts,497.0,50,20,3,Credit Card,109.34
+ORD20260189,Hyderabad,Pizza/Fast Food,774.0,50,55,3,Credit Card,170.28
+ORD20260190,Delhi NCR,Pizza/Fast Food,275.0,200,53,2,Cash on Delivery,60.5
+ORD20260191,Delhi NCR,North Indian,428.0,0,31,4,UPI,94.16
+ORD20260192,Bengaluru,Chinese,846.0,0,33,4,UPI,186.12
+ORD20260193,Delhi NCR,Chinese,300.0,50,32,5,Cash on Delivery,66.0
+ORD20260194,Delhi NCR,Chinese,173.0,0,37,5,Debit Card,38.06
+ORD20260195,Mumbai,North Indian,491.0,50,31,5,UPI,108.02
+ORD20260196,Bengaluru,Desserts,589.0,100,39,4,UPI,129.58
+ORD20260197,Mumbai,Chinese,235.0,0,30,4,Credit Card,51.7
+ORD20260198,Bengaluru,South Indian,662.0,0,33,4,Cash on Delivery,145.64
+ORD20260199,Mumbai,Pizza/Fast Food,1194.0,200,41,4,UPI,262.68
+ORD20260200,Delhi NCR,Desserts,639.0,100,32,5,UPI,140.58
+ORD20260201,Bengaluru,North Indian,427.0,50,42,4,UPI,93.94
+ORD20260202,Delhi NCR,Chinese,352.0,0,39,3,UPI,77.44
+ORD20260203,Bengaluru,Chinese,398.0,100,34,4,Debit Card,87.56
+ORD20260204,Mumbai,North Indian,368.0,100,38,4,UPI,80.96
+ORD20260205,Delhi NCR,Biryani,370.0,50,40,3,Cash on Delivery,81.4
+ORD20260206,Delhi NCR,Pizza/Fast Food,289.0,0,33,5,UPI,63.58
+ORD20260207,Delhi NCR,South Indian,220.0,100,32,4,UPI,48.4
+ORD20260208,Bengaluru,Pizza/Fast Food,619.0,0,47,5,UPI,136.18
+ORD20260209,Delhi NCR,Chinese,779.0,0,53,1,UPI,171.38
+ORD20260210,Hyderabad,Desserts,935.0,50,40,4,UPI,205.7
+ORD20260211,Mumbai,North Indian,509.0,150,47,4,UPI,111.98
+ORD20260212,Delhi NCR,North Indian,283.0,200,55,5,UPI,62.26
+ORD20260213,Delhi NCR,North Indian,373.0,0,38,2,UPI,82.06
+ORD20260214,Bengaluru,Biryani,557.0,0,25,5,Debit Card,122.54
+ORD20260215,Delhi NCR,Chinese,433.0,100,20,2,Cash on Delivery,95.26
+ORD20260216,Mumbai,Pizza/Fast Food,277.0,100,57,4,Credit Card,60.94
+ORD20260217,Delhi NCR,North Indian,767.0,100,37,4,UPI,168.74
+ORD20260218,Mumbai,Chinese,294.0,50,42,5,UPI,64.68
+ORD20260219,Mumbai,North Indian,953.0,50,53,4,UPI,209.66
+ORD20260220,Bengaluru,Chinese,191.0,150,40,1,Credit Card,42.02
+ORD20260221,Delhi NCR,South Indian,222.0,0,27,2,UPI,48.84
+ORD20260222,Hyderabad,North Indian,737.0,50,20,4,Credit Card,162.14
+ORD20260223,Bengaluru,North Indian,308.0,100,44,5,Credit Card,67.76
+ORD20260224,Mumbai,Pizza/Fast Food,477.0,0,24,4,Debit Card,104.94
+ORD20260225,Hyderabad,Pizza/Fast Food,591.0,200,41,4,Cash on Delivery,130.02
+ORD20260226,Bengaluru,Biryani,262.0,50,28,3,UPI,57.64
+ORD20260227,Delhi NCR,Chinese,478.0,50,30,4,Credit Card,105.16
+ORD20260228,Delhi NCR,Pizza/Fast Food,596.0,0,30,2,Credit Card,131.12
+ORD20260229,Delhi NCR,South Indian,338.0,50,17,2,UPI,74.36
+ORD20260230,Delhi NCR,Biryani,514.0,200,61,3,UPI,113.08
+ORD20260231,Delhi NCR,North Indian,417.0,0,25,4,UPI,91.74
+ORD20260232,Bengaluru,Chinese,607.0,150,46,4,Debit Card,133.54
+ORD20260233,Delhi NCR,Biryani,366.0,50,44,4,Credit Card,80.52
+ORD20260234,Bengaluru,Biryani,417.0,100,17,5,UPI,91.74
+ORD20260235,Hyderabad,Biryani,348.0,100,34,5,Credit Card,76.56
+ORD20260236,Hyderabad,North Indian,218.0,150,46,5,Cash on Delivery,47.96
+ORD20260237,Bengaluru,Pizza/Fast Food,726.0,50,36,4,UPI,159.72
+ORD20260238,Mumbai,Pizza/Fast Food,606.0,0,47,5,Debit Card,133.32
+ORD20260239,Hyderabad,Pizza/Fast Food,394.0,50,54,5,Debit Card,86.68
+ORD20260240,Delhi NCR,North Indian,303.0,0,49,4,UPI,66.66
+ORD20260241,Delhi NCR,Chinese,445.0,100,50,5,UPI,97.9
+ORD20260242,Mumbai,Biryani,347.0,50,61,4,Debit Card,76.34
+ORD20260243,Bengaluru,Desserts,423.0,0,37,4,Debit Card,93.06
+ORD20260244,Bengaluru,Pizza/Fast Food,546.0,50,35,5,UPI,120.12
+ORD20260245,Bengaluru,North Indian,149.0,0,44,4,UPI,32.78
+ORD20260246,Bengaluru,Chinese,569.0,50,73,4,UPI,125.18
+ORD20260247,Mumbai,South Indian,394.0,0,32,4,UPI,86.68
+ORD20260248,Hyderabad,Desserts,384.0,50,28,4,UPI,84.48
+ORD20260249,Delhi NCR,Biryani,157.0,100,35,4,UPI,34.54
+ORD20260250,Bengaluru,Chinese,828.0,100,34,3,Debit Card,182.16
+ORD20260251,Delhi NCR,North Indian,540.0,200,38,3,Cash on Delivery,118.8
+ORD20260252,Bengaluru,North Indian,376.0,50,37,4,UPI,82.72
+ORD20260253,Delhi NCR,North Indian,647.0,0,36,4,Debit Card,142.34
+ORD20260254,Bengaluru,North Indian,492.0,50,34,4,Credit Card,108.24
+ORD20260255,Bengaluru,North Indian,149.0,100,47,3,Debit Card,32.78
+ORD20260256,Hyderabad,Desserts,211.0,0,57,4,UPI,46.42
+ORD20260257,Delhi NCR,Biryani,529.0,100,25,1,Debit Card,116.38
+ORD20260258,Delhi NCR,Biryani,335.0,100,26,1,Cash on Delivery,73.7
+ORD20260259,Mumbai,South Indian,508.0,50,22,4,UPI,111.76
+ORD20260260,Hyderabad,North Indian,180.0,150,23,4,Credit Card,39.6
+ORD20260261,Mumbai,North Indian,359.0,0,39,4,UPI,78.98
+ORD20260262,Mumbai,Biryani,372.0,100,31,1,UPI,81.84
+ORD20260263,Bengaluru,North Indian,468.0,0,33,1,Credit Card,102.96
+ORD20260264,Bengaluru,Chinese,252.0,50,38,3,Credit Card,55.44
+ORD20260265,Mumbai,Chinese,227.0,200,32,5,Credit Card,49.94
+ORD20260266,Delhi NCR,North Indian,955.0,150,15,4,UPI,210.1
+ORD20260267,Bengaluru,North Indian,277.0,100,48,5,Cash on Delivery,60.94
+ORD20260268,Bengaluru,South Indian,149.0,50,16,4,UPI,32.78
+ORD20260269,Bengaluru,North Indian,249.0,150,62,3,UPI,54.78
+ORD20260270,Delhi NCR,Biryani,301.0,200,36,4,UPI,66.22
+ORD20260271,Mumbai,South Indian,351.0,50,31,5,Credit Card,77.22
+ORD20260272,Hyderabad,North Indian,212.0,0,44,4,UPI,46.64
+ORD20260273,Mumbai,Biryani,549.0,150,52,4,UPI,120.78
+ORD20260274,Mumbai,Pizza/Fast Food,340.0,200,28,5,Cash on Delivery,74.8
+ORD20260275,Mumbai,Pizza/Fast Food,333.0,100,31,4,UPI,73.26
+ORD20260276,Bengaluru,Pizza/Fast Food,1053.0,150,43,4,UPI,231.66
+ORD20260277,Mumbai,North Indian,429.0,50,44,4,UPI,94.38
+ORD20260278,Bengaluru,Chinese,252.0,0,39,4,Credit Card,55.44
+ORD20260279,Bengaluru,Biryani,271.0,50,20,5,UPI,59.62
+ORD20260280,Mumbai,Pizza/Fast Food,277.0,200,45,3,UPI,60.94
+ORD20260281,Bengaluru,Biryani,575.0,100,53,4,Credit Card,126.5
+ORD20260282,Delhi NCR,North Indian,839.0,100,54,2,UPI,184.58
+ORD20260283,Bengaluru,South Indian,291.0,50,51,5,UPI,64.02
+ORD20260284,Bengaluru,Biryani,468.0,100,32,5,UPI,102.96
+ORD20260285,Bengaluru,Biryani,197.0,50,15,3,UPI,43.34
+ORD20260286,Bengaluru,South Indian,238.0,100,33,5,Cash on Delivery,52.36
+ORD20260287,Delhi NCR,Biryani,705.0,0,26,5,UPI,155.1
+ORD20260288,Bengaluru,North Indian,172.0,0,40,3,UPI,37.84
+ORD20260289,Hyderabad,Chinese,406.0,100,38,5,Credit Card,89.32
+ORD20260290,Bengaluru,Pizza/Fast Food,271.0,100,23,5,UPI,59.62
+ORD20260291,Mumbai,North Indian,313.0,200,66,4,UPI,68.86
+ORD20260292,Mumbai,Biryani,467.0,100,39,5,Debit Card,102.74
+ORD20260293,Hyderabad,North Indian,428.0,0,39,2,Debit Card,94.16
+ORD20260294,Mumbai,Chinese,374.0,150,50,4,Credit Card,82.28
+ORD20260295,Delhi NCR,Biryani,458.0,150,32,4,Credit Card,100.76
+ORD20260296,Bengaluru,Biryani,388.0,50,15,3,UPI,85.36
+ORD20260297,Mumbai,North Indian,437.0,100,43,3,UPI,96.14
+ORD20260298,Bengaluru,Pizza/Fast Food,149.0,50,21,3,UPI,32.78
+ORD20260299,Delhi NCR,Pizza/Fast Food,363.0,100,44,5,UPI,79.86
+ORD20260300,Mumbai,Desserts,303.0,50,33,4,Credit Card,66.66
+ORD20260301,Delhi NCR,North Indian,412.0,0,26,2,Credit Card,90.64
+ORD20260302,Bengaluru,North Indian,473.0,0,25,5,UPI,104.06
+ORD20260303,Delhi NCR,Biryani,584.0,0,48,4,UPI,128.48
+ORD20260304,Bengaluru,North Indian,384.0,0,15,5,UPI,84.48
+ORD20260305,Delhi NCR,North Indian,607.0,100,57,4,UPI,133.54
+ORD20260306,Hyderabad,Pizza/Fast Food,479.0,50,32,5,UPI,105.38
+ORD20260307,Delhi NCR,Pizza/Fast Food,149.0,200,28,4,UPI,32.78
+ORD20260308,Delhi NCR,Biryani,485.0,200,29,4,UPI,106.7
+ORD20260309,Bengaluru,Pizza/Fast Food,669.0,50,34,4,UPI,147.18
+ORD20260310,Delhi NCR,Biryani,314.0,100,15,4,UPI,69.08
+ORD20260311,Mumbai,Biryani,669.0,50,36,4,UPI,147.18
+ORD20260312,Mumbai,Pizza/Fast Food,864.0,50,60,5,UPI,190.08
+ORD20260313,Bengaluru,Pizza/Fast Food,549.0,100,32,4,Debit Card,120.78
+ORD20260314,Bengaluru,Biryani,204.0,0,57,4,UPI,44.88
+ORD20260315,Bengaluru,North Indian,730.0,50,29,5,UPI,160.6
+ORD20260316,Delhi NCR,Biryani,307.0,150,45,5,Credit Card,67.54
+ORD20260317,Delhi NCR,Pizza/Fast Food,426.0,100,49,4,Cash on Delivery,93.72
+ORD20260318,Hyderabad,Biryani,486.0,0,32,3,UPI,106.92
+ORD20260319,Hyderabad,Biryani,374.0,50,23,4,Cash on Delivery,82.28
+ORD20260320,Delhi NCR,Pizza/Fast Food,404.0,50,44,5,UPI,88.88
+ORD20260321,Bengaluru,Biryani,819.0,100,44,4,UPI,180.18
+ORD20260322,Mumbai,Biryani,313.0,100,45,5,UPI,68.86
+ORD20260323,Delhi NCR,North Indian,386.0,150,55,4,UPI,84.92
+ORD20260324,Mumbai,Pizza/Fast Food,331.0,200,35,5,UPI,72.82
+ORD20260325,Delhi NCR,South Indian,411.0,200,45,5,Cash on Delivery,90.42
+ORD20260326,Mumbai,Pizza/Fast Food,608.0,150,41,2,UPI,133.76
+ORD20260327,Hyderabad,Pizza/Fast Food,444.0,200,44,5,Debit Card,97.68
+ORD20260328,Delhi NCR,Pizza/Fast Food,550.0,50,32,4,UPI,121.0
+ORD20260329,Bengaluru,Desserts,196.0,200,20,5,UPI,43.12
+ORD20260330,Bengaluru,Biryani,374.0,150,33,2,Debit Card,82.28
+ORD20260331,Hyderabad,Pizza/Fast Food,327.0,50,19,1,Credit Card,71.94
+ORD20260332,Bengaluru,Pizza/Fast Food,364.0,0,37,5,Debit Card,80.08
+ORD20260333,Bengaluru,North Indian,644.0,50,45,3,Cash on Delivery,141.68
+ORD20260334,Mumbai,South Indian,590.0,0,45,5,Cash on Delivery,129.8
+ORD20260335,Delhi NCR,North Indian,304.0,50,35,2,UPI,66.88
+ORD20260336,Mumbai,Pizza/Fast Food,438.0,0,50,5,UPI,96.36
+ORD20260337,Mumbai,Biryani,412.0,100,33,3,UPI,90.64
+ORD20260338,Delhi NCR,South Indian,306.0,100,40,5,Cash on Delivery,67.32
+ORD20260339,Bengaluru,South Indian,418.0,0,45,1,Cash on Delivery,91.96
+ORD20260340,Hyderabad,Biryani,149.0,50,15,4,Credit Card,32.78
+ORD20260341,Bengaluru,Chinese,483.0,200,31,4,Credit Card,106.26
+ORD20260342,Delhi NCR,Chinese,449.0,100,26,2,UPI,98.78
+ORD20260343,Hyderabad,North Indian,550.0,100,22,4,UPI,121.0
+ORD20260344,Hyderabad,Biryani,705.0,0,45,4,UPI,155.1
+ORD20260345,Delhi NCR,North Indian,387.0,100,42,5,Credit Card,85.14
+ORD20260346,Hyderabad,North Indian,759.0,50,47,4,UPI,166.98
+ORD20260347,Mumbai,Biryani,269.0,150,44,4,Credit Card,59.18
+ORD20260348,Delhi NCR,Biryani,282.0,150,44,5,Debit Card,62.04
+ORD20260349,Delhi NCR,Biryani,456.0,0,57,4,Debit Card,100.32
+ORD20260350,Bengaluru,Biryani,697.0,100,37,5,UPI,153.34
+ORD20260351,Delhi NCR,Biryani,673.0,100,45,4,Cash on Delivery,148.06
+ORD20260352,Delhi NCR,Chinese,521.0,0,34,5,UPI,114.62
+ORD20260353,Delhi NCR,Pizza/Fast Food,261.0,100,40,5,UPI,57.42
+ORD20260354,Bengaluru,Biryani,198.0,50,40,4,UPI,43.56
+ORD20260355,Hyderabad,Chinese,712.0,0,28,4,UPI,156.64
+ORD20260356,Bengaluru,Biryani,437.0,200,39,4,UPI,96.14
+ORD20260357,Bengaluru,North Indian,210.0,0,29,4,UPI,46.2
+ORD20260358,Mumbai,Biryani,490.0,200,44,4,Credit Card,107.8
+ORD20260359,Delhi NCR,Biryani,693.0,50,50,2,Credit Card,152.46
+ORD20260360,Mumbai,North Indian,314.0,50,64,3,UPI,69.08
+ORD20260361,Bengaluru,Pizza/Fast Food,385.0,100,42,4,UPI,84.7
+ORD20260362,Hyderabad,Biryani,369.0,50,47,4,Credit Card,81.18
+ORD20260363,Bengaluru,North Indian,440.0,0,68,4,UPI,96.8
+ORD20260364,Hyderabad,Pizza/Fast Food,224.0,200,45,5,Credit Card,49.28
+ORD20260365,Hyderabad,Biryani,654.0,100,27,2,Credit Card,143.88
+ORD20260366,Hyderabad,Pizza/Fast Food,266.0,50,26,5,UPI,58.52
+ORD20260367,Bengaluru,North Indian,510.0,100,46,3,UPI,112.2
+ORD20260368,Hyderabad,North Indian,285.0,100,45,4,UPI,62.7
+ORD20260369,Mumbai,Pizza/Fast Food,398.0,0,32,5,UPI,87.56
+ORD20260370,Delhi NCR,South Indian,297.0,100,42,5,UPI,65.34
+ORD20260371,Bengaluru,Biryani,543.0,50,45,5,Credit Card,119.46
+ORD20260372,Hyderabad,Biryani,149.0,100,44,4,UPI,32.78
+ORD20260373,Bengaluru,South Indian,566.0,50,49,3,UPI,124.52
+ORD20260374,Hyderabad,Pizza/Fast Food,248.0,100,28,2,UPI,54.56
+ORD20260375,Bengaluru,Chinese,489.0,0,42,4,Cash on Delivery,107.58
+ORD20260376,Delhi NCR,Chinese,307.0,200,37,5,Cash on Delivery,67.54
+ORD20260377,Delhi NCR,Biryani,317.0,50,58,2,UPI,69.74
+ORD20260378,Hyderabad,Biryani,705.0,50,43,5,Credit Card,155.1
+ORD20260379,Bengaluru,Chinese,336.0,100,39,4,UPI,73.92
+ORD20260380,Hyderabad,North Indian,555.0,100,30,4,UPI,122.1
+ORD20260381,Bengaluru,Chinese,672.0,200,26,5,UPI,147.84
+ORD20260382,Hyderabad,Pizza/Fast Food,204.0,100,23,1,Credit Card,44.88
+ORD20260383,Hyderabad,Pizza/Fast Food,1127.0,50,34,4,UPI,247.94
+ORD20260384,Mumbai,Chinese,327.0,50,39,4,UPI,71.94
+ORD20260385,Bengaluru,North Indian,401.0,100,33,3,Debit Card,88.22
+ORD20260386,Delhi NCR,North Indian,457.0,100,38,5,UPI,100.54
+ORD20260387,Delhi NCR,North Indian,248.0,200,35,1,Debit Card,54.56
+ORD20260388,Bengaluru,Biryani,273.0,50,21,3,UPI,60.06
+ORD20260389,Mumbai,Pizza/Fast Food,605.0,50,49,3,Credit Card,133.1
+ORD20260390,Bengaluru,Chinese,265.0,150,34,3,UPI,58.3
+ORD20260391,Mumbai,Chinese,757.0,0,54,3,Credit Card,166.54
+ORD20260392,Delhi NCR,Chinese,209.0,150,20,4,Credit Card,45.98
+ORD20260393,Bengaluru,Biryani,449.0,50,38,4,UPI,98.78
+ORD20260394,Delhi NCR,South Indian,462.0,0,35,2,UPI,101.64
+ORD20260395,Hyderabad,North Indian,336.0,50,37,4,UPI,73.92
+ORD20260396,Mumbai,Biryani,622.0,0,40,2,Credit Card,136.84
+ORD20260397,Delhi NCR,South Indian,396.0,50,22,5,UPI,87.12
+ORD20260398,Mumbai,South Indian,309.0,0,34,4,Credit Card,67.98
+ORD20260399,Delhi NCR,Biryani,477.0,50,38,4,UPI,104.94
+ORD20260400,Delhi NCR,Biryani,723.0,0,29,3,Credit Card,159.06
+ORD20260401,Bengaluru,Biryani,971.0,50,20,5,UPI,213.62
+ORD20260402,Bengaluru,Pizza/Fast Food,258.0,50,35,3,UPI,56.76
+ORD20260403,Delhi NCR,Biryani,875.0,0,52,3,UPI,192.5
+ORD20260404,Delhi NCR,South Indian,659.0,150,38,5,Credit Card,144.98
+ORD20260405,Bengaluru,Pizza/Fast Food,480.0,0,32,2,Cash on Delivery,105.6
+ORD20260406,Delhi NCR,Biryani,431.0,0,26,4,UPI,94.82
+ORD20260407,Mumbai,Biryani,263.0,0,40,3,Credit Card,57.86
+ORD20260408,Bengaluru,North Indian,550.0,50,23,2,Debit Card,121.0
+ORD20260409,Delhi NCR,Biryani,431.0,50,25,4,UPI,94.82
+ORD20260410,Mumbai,South Indian,289.0,150,24,5,UPI,63.58
+ORD20260411,Mumbai,Pizza/Fast Food,277.0,150,40,3,UPI,60.94
+ORD20260412,Bengaluru,North Indian,223.0,0,23,5,Credit Card,49.06
+ORD20260413,Delhi NCR,South Indian,269.0,0,39,4,Credit Card,59.18
+ORD20260414,Delhi NCR,North Indian,259.0,150,30,5,UPI,56.98
+ORD20260415,Delhi NCR,Biryani,522.0,0,58,4,Cash on Delivery,114.84
+ORD20260416,Bengaluru,Pizza/Fast Food,550.0,0,38,5,Debit Card,121.0
+ORD20260417,Hyderabad,North Indian,471.0,100,32,4,UPI,103.62
+ORD20260418,Hyderabad,North Indian,386.0,50,15,3,Credit Card,84.92
+ORD20260419,Bengaluru,Pizza/Fast Food,517.0,50,36,1,UPI,113.74
+ORD20260420,Bengaluru,South Indian,257.0,50,33,4,UPI,56.54
+ORD20260421,Bengaluru,Biryani,210.0,0,46,4,Credit Card,46.2
+ORD20260422,Delhi NCR,North Indian,248.0,0,33,3,UPI,54.56
+ORD20260423,Mumbai,Pizza/Fast Food,365.0,50,36,2,UPI,80.3
+ORD20260424,Delhi NCR,South Indian,308.0,50,18,5,Cash on Delivery,67.76
+ORD20260425,Bengaluru,North Indian,848.0,150,50,3,UPI,186.56
+ORD20260426,Delhi NCR,Pizza/Fast Food,312.0,100,43,4,UPI,68.64
+ORD20260427,Delhi NCR,North Indian,387.0,50,21,5,Debit Card,85.14
+ORD20260428,Hyderabad,Chinese,302.0,100,60,5,UPI,66.44
+ORD20260429,Bengaluru,Pizza/Fast Food,445.0,50,41,5,Credit Card,97.9
+ORD20260430,Bengaluru,South Indian,485.0,100,36,4,UPI,106.7
+ORD20260431,Bengaluru,Chinese,702.0,50,49,4,UPI,154.44
+ORD20260432,Delhi NCR,Chinese,547.0,150,39,3,UPI,120.34
+ORD20260433,Mumbai,Desserts,623.0,50,19,3,Cash on Delivery,137.06
+ORD20260434,Mumbai,North Indian,183.0,0,37,3,UPI,40.26
+ORD20260435,Hyderabad,Chinese,332.0,150,36,5,UPI,73.04
+ORD20260436,Delhi NCR,Pizza/Fast Food,362.0,150,39,4,UPI,79.64
+ORD20260437,Delhi NCR,Biryani,423.0,200,37,4,UPI,93.06
+ORD20260438,Mumbai,Chinese,499.0,0,23,5,UPI,109.78
+ORD20260439,Mumbai,Biryani,573.0,0,51,5,Credit Card,126.06
+ORD20260440,Bengaluru,North Indian,310.0,0,33,3,Credit Card,68.2
+ORD20260441,Mumbai,Biryani,427.0,0,38,4,Credit Card,93.94
+ORD20260442,Hyderabad,Biryani,473.0,50,16,4,Debit Card,104.06
+ORD20260443,Bengaluru,Desserts,713.0,50,28,5,Debit Card,156.86
+ORD20260444,Mumbai,Biryani,251.0,200,24,4,Debit Card,55.22
+ORD20260445,Bengaluru,Biryani,246.0,100,49,5,Debit Card,54.12
+ORD20260446,Bengaluru,North Indian,334.0,100,31,4,UPI,73.48
+ORD20260447,Hyderabad,Chinese,149.0,0,46,3,UPI,32.78
+ORD20260448,Bengaluru,South Indian,388.0,0,50,5,Cash on Delivery,85.36
+ORD20260449,Hyderabad,North Indian,344.0,0,64,4,UPI,75.68
+ORD20260450,Mumbai,Desserts,231.0,100,36,2,Credit Card,50.82
+ORD20260451,Delhi NCR,Biryani,149.0,150,54,4,UPI,32.78
+ORD20260452,Hyderabad,North Indian,471.0,200,28,4,UPI,103.62
+ORD20260453,Bengaluru,Chinese,314.0,150,52,5,Cash on Delivery,69.08
+ORD20260454,Bengaluru,North Indian,289.0,0,28,3,Credit Card,63.58
+ORD20260455,Bengaluru,South Indian,439.0,50,19,5,Cash on Delivery,96.58
+ORD20260456,Hyderabad,Chinese,249.0,100,55,3,Credit Card,54.78
+ORD20260457,Mumbai,South Indian,362.0,200,63,4,Debit Card,79.64
+ORD20260458,Mumbai,South Indian,243.0,0,15,5,Debit Card,53.46
+ORD20260459,Mumbai,North Indian,496.0,150,38,3,UPI,109.12
+ORD20260460,Mumbai,Biryani,567.0,100,47,5,UPI,124.74
+ORD20260461,Bengaluru,South Indian,438.0,200,34,5,Cash on Delivery,96.36
+ORD20260462,Delhi NCR,North Indian,501.0,0,32,1,Cash on Delivery,110.22
+ORD20260463,Delhi NCR,Pizza/Fast Food,380.0,0,30,4,UPI,83.6
+ORD20260464,Delhi NCR,Biryani,845.0,50,26,4,UPI,185.9
+ORD20260465,Delhi NCR,Chinese,464.0,200,31,4,Debit Card,102.08
+ORD20260466,Bengaluru,North Indian,634.0,50,44,4,UPI,139.48
+ORD20260467,Hyderabad,Desserts,417.0,0,17,2,UPI,91.74
+ORD20260468,Delhi NCR,Pizza/Fast Food,286.0,50,56,4,Credit Card,62.92
+ORD20260469,Delhi NCR,Chinese,425.0,150,32,5,UPI,93.5
+ORD20260470,Hyderabad,Pizza/Fast Food,331.0,0,48,4,UPI,72.82
+ORD20260471,Bengaluru,Pizza/Fast Food,432.0,0,34,5,UPI,95.04
+ORD20260472,Bengaluru,Chinese,591.0,100,28,4,UPI,130.02
+ORD20260473,Hyderabad,Biryani,336.0,100,52,4,UPI,73.92
+ORD20260474,Delhi NCR,Chinese,674.0,50,22,4,UPI,148.28
+ORD20260475,Delhi NCR,North Indian,811.0,50,26,5,UPI,178.42
+ORD20260476,Bengaluru,South Indian,268.0,0,45,3,UPI,58.96
+ORD20260477,Delhi NCR,Biryani,155.0,150,36,3,Credit Card,34.1
+ORD20260478,Bengaluru,Pizza/Fast Food,418.0,200,42,3,UPI,91.96
+ORD20260479,Delhi NCR,North Indian,587.0,50,24,4,Cash on Delivery,129.14
+ORD20260480,Bengaluru,Chinese,724.0,50,38,3,UPI,159.28
+ORD20260481,Bengaluru,North Indian,205.0,100,45,4,Cash on Delivery,45.1
+ORD20260482,Delhi NCR,North Indian,482.0,0,68,5,UPI,106.04
+ORD20260483,Hyderabad,Chinese,527.0,0,43,4,UPI,115.94
+ORD20260484,Mumbai,Chinese,348.0,0,32,5,UPI,76.56
+ORD20260485,Hyderabad,Pizza/Fast Food,402.0,200,76,3,Credit Card,88.44
+ORD20260486,Bengaluru,Biryani,241.0,0,27,3,UPI,53.02
+ORD20260487,Delhi NCR,Pizza/Fast Food,456.0,50,27,5,Credit Card,100.32
+ORD20260488,Bengaluru,Pizza/Fast Food,287.0,150,49,3,UPI,63.14
+ORD20260489,Bengaluru,Chinese,356.0,50,22,5,UPI,78.32
+ORD20260490,Hyderabad,Pizza/Fast Food,209.0,200,15,3,UPI,45.98
+ORD20260491,Bengaluru,Pizza/Fast Food,554.0,50,43,4,Credit Card,121.88
+ORD20260492,Bengaluru,Pizza/Fast Food,381.0,0,47,4,UPI,83.82
+ORD20260493,Delhi NCR,Pizza/Fast Food,421.0,100,49,3,Debit Card,92.62
+ORD20260494,Hyderabad,South Indian,421.0,50,37,4,UPI,92.62
+ORD20260495,Bengaluru,Biryani,853.0,0,32,4,UPI,187.66
+ORD20260496,Mumbai,Biryani,263.0,50,37,1,Cash on Delivery,57.86
+ORD20260497,Bengaluru,Biryani,421.0,200,50,5,UPI,92.62
+ORD20260498,Delhi NCR,Biryani,268.0,50,43,4,UPI,58.96
+ORD20260499,Bengaluru,North Indian,513.0,0,73,5,UPI,112.86
+ORD20260500,Delhi NCR,Pizza/Fast Food,193.0,200,32,4,Debit Card,42.46
+ORD20260501,Bengaluru,Biryani,525.0,200,41,4,UPI,115.5
+ORD20260502,Delhi NCR,North Indian,292.0,50,29,4,UPI,64.24
+ORD20260503,Mumbai,Pizza/Fast Food,845.0,0,26,5,Cash on Delivery,185.9
+ORD20260504,Hyderabad,Pizza/Fast Food,317.0,0,53,5,Cash on Delivery,69.74
+ORD20260505,Delhi NCR,North Indian,639.0,0,19,4,UPI,140.58
+ORD20260506,Bengaluru,South Indian,497.0,200,41,4,Debit Card,109.34
+ORD20260507,Delhi NCR,Biryani,342.0,100,34,4,Credit Card,75.24
+ORD20260508,Bengaluru,Chinese,199.0,0,30,5,Cash on Delivery,43.78
+ORD20260509,Mumbai,South Indian,660.0,50,34,4,UPI,145.2
+ORD20260510,Mumbai,South Indian,715.0,50,21,1,Credit Card,157.3
+ORD20260511,Delhi NCR,South Indian,425.0,50,36,4,UPI,93.5
+ORD20260512,Delhi NCR,North Indian,542.0,0,27,1,UPI,119.24
+ORD20260513,Bengaluru,Desserts,405.0,50,17,4,UPI,89.1
+ORD20260514,Bengaluru,Chinese,320.0,50,48,4,Cash on Delivery,70.4
+ORD20260515,Delhi NCR,Biryani,925.0,0,58,4,UPI,203.5
+ORD20260516,Delhi NCR,Biryani,728.0,200,39,4,UPI,160.16
+ORD20260517,Bengaluru,Chinese,448.0,100,75,4,Credit Card,98.56
+ORD20260518,Mumbai,Pizza/Fast Food,387.0,100,57,2,Credit Card,85.14
+ORD20260519,Bengaluru,South Indian,395.0,50,53,4,UPI,86.9
+ORD20260520,Delhi NCR,North Indian,359.0,0,33,2,Credit Card,78.98
+ORD20260521,Delhi NCR,Pizza/Fast Food,395.0,0,55,3,UPI,86.9
+ORD20260522,Delhi NCR,Pizza/Fast Food,386.0,100,40,1,UPI,84.92
+ORD20260523,Mumbai,Pizza/Fast Food,156.0,0,43,3,UPI,34.32
+ORD20260524,Delhi NCR,Pizza/Fast Food,266.0,50,51,4,UPI,58.52
+ORD20260525,Mumbai,Biryani,261.0,50,31,5,UPI,57.42
+ORD20260526,Bengaluru,Pizza/Fast Food,566.0,200,45,4,UPI,124.52
+ORD20260527,Bengaluru,Pizza/Fast Food,531.0,100,35,4,UPI,116.82
+ORD20260528,Bengaluru,Pizza/Fast Food,662.0,0,28,1,UPI,145.64
+ORD20260529,Delhi NCR,Chinese,347.0,0,51,4,Credit Card,76.34
+ORD20260530,Hyderabad,Pizza/Fast Food,544.0,100,32,1,UPI,119.68
+ORD20260531,Bengaluru,Biryani,938.0,50,40,3,UPI,206.36
+ORD20260532,Hyderabad,North Indian,160.0,50,31,1,UPI,35.2
+ORD20260533,Bengaluru,Desserts,495.0,50,21,1,UPI,108.9
+ORD20260534,Delhi NCR,Biryani,224.0,100,52,5,UPI,49.28
+ORD20260535,Delhi NCR,South Indian,485.0,0,25,5,Cash on Delivery,106.7
+ORD20260536,Bengaluru,Biryani,328.0,0,49,1,UPI,72.16
+ORD20260537,Bengaluru,Biryani,493.0,50,15,4,Debit Card,108.46
+ORD20260538,Delhi NCR,Pizza/Fast Food,235.0,0,35,5,Debit Card,51.7
+ORD20260539,Mumbai,Pizza/Fast Food,411.0,200,27,5,UPI,90.42
+ORD20260540,Bengaluru,South Indian,554.0,0,62,3,Credit Card,121.88
+ORD20260541,Bengaluru,North Indian,149.0,50,37,5,Credit Card,32.78
+ORD20260542,Bengaluru,Biryani,420.0,50,44,3,UPI,92.4
+ORD20260543,Bengaluru,Biryani,383.0,50,40,5,Credit Card,84.26
+ORD20260544,Bengaluru,North Indian,374.0,200,17,2,UPI,82.28
+ORD20260545,Bengaluru,Chinese,234.0,0,50,4,Credit Card,51.48
+ORD20260546,Hyderabad,North Indian,394.0,50,36,4,Credit Card,86.68
+ORD20260547,Bengaluru,North Indian,544.0,50,41,5,UPI,119.68
+ORD20260548,Mumbai,Pizza/Fast Food,339.0,100,23,5,UPI,74.58
+ORD20260549,Mumbai,Pizza/Fast Food,259.0,0,28,4,Credit Card,56.98
+ORD20260550,Bengaluru,Biryani,222.0,50,51,5,Credit Card,48.84
+ORD20260551,Bengaluru,Chinese,305.0,0,48,5,UPI,67.1
+ORD20260552,Delhi NCR,Pizza/Fast Food,345.0,100,39,4,UPI,75.9
+ORD20260553,Bengaluru,Pizza/Fast Food,394.0,0,63,2,UPI,86.68
+ORD20260554,Bengaluru,North Indian,245.0,0,39,4,UPI,53.9
+ORD20260555,Hyderabad,North Indian,449.0,50,24,5,UPI,98.78
+ORD20260556,Bengaluru,Pizza/Fast Food,824.0,0,15,3,Cash on Delivery,181.28
+ORD20260557,Bengaluru,South Indian,432.0,100,33,4,UPI,95.04
+ORD20260558,Bengaluru,Pizza/Fast Food,587.0,50,28,3,Credit Card,129.14
+ORD20260559,Mumbai,Desserts,720.0,0,36,3,UPI,158.4
+ORD20260560,Hyderabad,Chinese,896.0,100,54,5,UPI,197.12
+ORD20260561,Hyderabad,North Indian,401.0,100,41,2,UPI,88.22
+ORD20260562,Bengaluru,South Indian,597.0,100,60,4,UPI,131.34
+ORD20260563,Delhi NCR,South Indian,656.0,100,50,5,UPI,144.32
+ORD20260564,Delhi NCR,Pizza/Fast Food,1316.0,0,36,4,Cash on Delivery,289.52
+ORD20260565,Mumbai,Biryani,357.0,50,35,2,Credit Card,78.54
+ORD20260566,Mumbai,North Indian,373.0,0,36,5,Credit Card,82.06
+ORD20260567,Delhi NCR,Desserts,306.0,50,40,5,UPI,67.32
+ORD20260568,Delhi NCR,Biryani,513.0,50,15,5,Credit Card,112.86
+ORD20260569,Bengaluru,North Indian,149.0,150,25,4,Credit Card,32.78
+ORD20260570,Delhi NCR,Chinese,352.0,150,44,3,UPI,77.44
+ORD20260571,Delhi NCR,Chinese,1058.0,50,36,2,Credit Card,232.76
+ORD20260572,Delhi NCR,North Indian,428.0,0,35,5,UPI,94.16
+ORD20260573,Hyderabad,Biryani,544.0,0,27,5,Cash on Delivery,119.68
+ORD20260574,Mumbai,North Indian,782.0,200,36,5,UPI,172.04
+ORD20260575,Mumbai,Pizza/Fast Food,149.0,50,36,3,Debit Card,32.78
+ORD20260576,Bengaluru,North Indian,638.0,0,47,4,Credit Card,140.36
+ORD20260577,Mumbai,Pizza/Fast Food,516.0,100,36,5,Credit Card,113.52
+ORD20260578,Bengaluru,South Indian,948.0,200,48,5,UPI,208.56
+ORD20260579,Hyderabad,Biryani,581.0,0,38,3,Debit Card,127.82
+ORD20260580,Bengaluru,Biryani,1061.0,100,48,5,UPI,233.42
+ORD20260581,Mumbai,South Indian,575.0,50,42,5,Cash on Delivery,126.5
+ORD20260582,Bengaluru,Biryani,864.0,50,24,5,Cash on Delivery,190.08
+ORD20260583,Bengaluru,Pizza/Fast Food,358.0,0,43,3,UPI,78.76
+ORD20260584,Bengaluru,North Indian,617.0,50,45,5,UPI,135.74
+ORD20260585,Bengaluru,Biryani,206.0,100,52,4,UPI,45.32
+ORD20260586,Bengaluru,Chinese,450.0,100,43,5,Credit Card,99.0
+ORD20260587,Bengaluru,Chinese,319.0,0,48,2,UPI,70.18
+ORD20260588,Delhi NCR,Biryani,296.0,0,18,4,Debit Card,65.12
+ORD20260589,Bengaluru,Pizza/Fast Food,247.0,50,33,5,Debit Card,54.34
+ORD20260590,Hyderabad,Pizza/Fast Food,336.0,200,40,3,UPI,73.92
+ORD20260591,Mumbai,Biryani,284.0,100,35,5,UPI,62.48
+ORD20260592,Mumbai,Pizza/Fast Food,260.0,0,30,5,UPI,57.2
+ORD20260593,Delhi NCR,North Indian,356.0,50,37,3,UPI,78.32
+ORD20260594,Hyderabad,North Indian,289.0,200,24,5,Cash on Delivery,63.58
+ORD20260595,Bengaluru,Chinese,866.0,150,51,3,UPI,190.52
+ORD20260596,Bengaluru,North Indian,437.0,0,34,4,Cash on Delivery,96.14
+ORD20260597,Bengaluru,Pizza/Fast Food,752.0,0,33,5,Cash on Delivery,165.44
+ORD20260598,Hyderabad,Biryani,369.0,0,33,5,UPI,81.18
+ORD20260599,Bengaluru,Pizza/Fast Food,281.0,100,41,3,UPI,61.82
+ORD20260600,Delhi NCR,Pizza/Fast Food,396.0,0,36,4,Credit Card,87.12
+ORD20260601,Delhi NCR,North Indian,674.0,50,17,4,Cash on Delivery,148.28
+ORD20260602,Delhi NCR,Desserts,543.0,100,32,2,Debit Card,119.46
+ORD20260603,Mumbai,Biryani,386.0,0,42,3,UPI,84.92
+ORD20260604,Delhi NCR,North Indian,335.0,200,40,4,Credit Card,73.7
+ORD20260605,Delhi NCR,North Indian,260.0,50,34,4,Cash on Delivery,57.2
+ORD20260606,Mumbai,Pizza/Fast Food,300.0,100,38,4,UPI,66.0
+ORD20260607,Hyderabad,South Indian,433.0,150,18,3,UPI,95.26
+ORD20260608,Bengaluru,North Indian,386.0,0,35,5,UPI,84.92
+ORD20260609,Bengaluru,North Indian,427.0,0,47,4,UPI,93.94
+ORD20260610,Hyderabad,Chinese,579.0,0,41,1,UPI,127.38
+ORD20260611,Delhi NCR,Pizza/Fast Food,617.0,100,34,3,Debit Card,135.74
+ORD20260612,Hyderabad,Chinese,693.0,0,36,2,UPI,152.46
+ORD20260613,Hyderabad,Biryani,499.0,0,42,2,UPI,109.78
+ORD20260614,Delhi NCR,North Indian,894.0,0,42,4,UPI,196.68
+ORD20260615,Delhi NCR,North Indian,331.0,150,37,4,Credit Card,72.82
+ORD20260616,Delhi NCR,North Indian,149.0,50,18,2,UPI,32.78
+ORD20260617,Delhi NCR,Desserts,412.0,0,41,4,UPI,90.64
+ORD20260618,Delhi NCR,Pizza/Fast Food,485.0,200,51,2,Credit Card,106.7
+ORD20260619,Bengaluru,Pizza/Fast Food,365.0,0,27,4,UPI,80.3
+ORD20260620,Hyderabad,North Indian,366.0,0,37,5,Credit Card,80.52
+ORD20260621,Bengaluru,Biryani,149.0,50,24,5,UPI,32.78
+ORD20260622,Bengaluru,Pizza/Fast Food,348.0,0,37,4,UPI,76.56
+ORD20260623,Delhi NCR,Chinese,322.0,100,22,5,Credit Card,70.84
+ORD20260624,Hyderabad,Pizza/Fast Food,591.0,50,40,3,Cash on Delivery,130.02
+ORD20260625,Hyderabad,North Indian,335.0,50,28,3,Cash on Delivery,73.7
+ORD20260626,Delhi NCR,Pizza/Fast Food,634.0,100,34,4,UPI,139.48
+ORD20260627,Hyderabad,South Indian,443.0,200,57,5,UPI,97.46
+ORD20260628,Mumbai,Pizza/Fast Food,286.0,0,36,3,Credit Card,62.92
+ORD20260629,Bengaluru,South Indian,571.0,100,36,1,Cash on Delivery,125.62
+ORD20260630,Hyderabad,North Indian,660.0,50,38,4,UPI,145.2
+ORD20260631,Bengaluru,Biryani,170.0,100,15,3,Credit Card,37.4
+ORD20260632,Delhi NCR,Pizza/Fast Food,272.0,150,36,4,UPI,59.84
+ORD20260633,Mumbai,Desserts,213.0,100,23,3,Debit Card,46.86
+ORD20260634,Mumbai,Chinese,338.0,200,41,2,UPI,74.36
+ORD20260635,Hyderabad,North Indian,359.0,0,32,4,UPI,78.98
+ORD20260636,Bengaluru,Chinese,364.0,50,31,5,Cash on Delivery,80.08
+ORD20260637,Delhi NCR,North Indian,334.0,50,36,3,Credit Card,73.48
+ORD20260638,Delhi NCR,Biryani,550.0,0,38,5,UPI,121.0
+ORD20260639,Bengaluru,Pizza/Fast Food,406.0,50,27,4,Credit Card,89.32
+ORD20260640,Delhi NCR,North Indian,1049.0,100,15,4,Debit Card,230.78
+ORD20260641,Hyderabad,North Indian,502.0,0,24,5,UPI,110.44
+ORD20260642,Mumbai,South Indian,210.0,200,23,5,UPI,46.2
+ORD20260643,Delhi NCR,North Indian,483.0,200,64,2,Credit Card,106.26
+ORD20260644,Delhi NCR,North Indian,239.0,100,67,5,Credit Card,52.58
+ORD20260645,Delhi NCR,North Indian,393.0,0,53,5,Cash on Delivery,86.46
+ORD20260646,Delhi NCR,South Indian,486.0,100,29,5,UPI,106.92
+ORD20260647,Delhi NCR,Biryani,1016.0,50,46,5,UPI,223.52
+ORD20260648,Mumbai,Biryani,626.0,0,44,2,Credit Card,137.72
+ORD20260649,Mumbai,Biryani,520.0,100,53,4,UPI,114.4
+ORD20260650,Bengaluru,Biryani,731.0,150,38,2,UPI,160.82
+ORD20260651,Delhi NCR,North Indian,245.0,50,35,4,Cash on Delivery,53.9
+ORD20260652,Delhi NCR,Pizza/Fast Food,354.0,0,40,4,UPI,77.88
+ORD20260653,Mumbai,Chinese,465.0,100,32,4,Cash on Delivery,102.3
+ORD20260654,Delhi NCR,North Indian,261.0,200,23,2,UPI,57.42
+ORD20260655,Hyderabad,North Indian,581.0,100,44,5,UPI,127.82
+ORD20260656,Mumbai,South Indian,595.0,200,48,4,Credit Card,130.9
+ORD20260657,Delhi NCR,Chinese,222.0,100,35,4,Credit Card,48.84
+ORD20260658,Bengaluru,Biryani,328.0,200,23,4,Debit Card,72.16
+ORD20260659,Delhi NCR,Biryani,952.0,0,17,5,UPI,209.44
+ORD20260660,Delhi NCR,South Indian,259.0,50,47,4,Cash on Delivery,56.98
+ORD20260661,Delhi NCR,Pizza/Fast Food,365.0,150,32,1,UPI,80.3
+ORD20260662,Mumbai,Desserts,433.0,0,47,4,Cash on Delivery,95.26
+ORD20260663,Hyderabad,North Indian,212.0,100,35,4,UPI,46.64
+ORD20260664,Mumbai,Pizza/Fast Food,762.0,50,32,4,Credit Card,167.64
+ORD20260665,Delhi NCR,North Indian,581.0,50,40,3,UPI,127.82
+ORD20260666,Delhi NCR,Pizza/Fast Food,288.0,50,40,4,UPI,63.36
+ORD20260667,Mumbai,North Indian,649.0,100,41,5,UPI,142.78
+ORD20260668,Delhi NCR,Chinese,205.0,0,32,4,Debit Card,45.1
+ORD20260669,Bengaluru,Biryani,1140.0,0,35,5,UPI,250.8
+ORD20260670,Bengaluru,Biryani,448.0,50,33,5,UPI,98.56
+ORD20260671,Mumbai,North Indian,971.0,0,31,3,UPI,213.62
+ORD20260672,Hyderabad,South Indian,713.0,100,42,4,Debit Card,156.86
+ORD20260673,Bengaluru,Chinese,313.0,50,47,5,UPI,68.86
+ORD20260674,Mumbai,Biryani,724.0,100,33,4,Credit Card,159.28
+ORD20260675,Mumbai,Chinese,546.0,0,40,4,Credit Card,120.12
+ORD20260676,Delhi NCR,South Indian,721.0,0,23,4,UPI,158.62
+ORD20260677,Mumbai,North Indian,637.0,0,18,4,UPI,140.14
+ORD20260678,Delhi NCR,Desserts,158.0,50,39,2,UPI,34.76
+ORD20260679,Delhi NCR,North Indian,585.0,0,44,4,UPI,128.7
+ORD20260680,Bengaluru,North Indian,245.0,50,44,3,Credit Card,53.9
+ORD20260681,Delhi NCR,South Indian,308.0,100,62,2,Credit Card,67.76
+ORD20260682,Delhi NCR,Biryani,584.0,150,45,5,UPI,128.48
+ORD20260683,Mumbai,Pizza/Fast Food,724.0,0,46,4,UPI,159.28
+ORD20260684,Delhi NCR,Pizza/Fast Food,390.0,0,46,4,UPI,85.8
+ORD20260685,Bengaluru,North Indian,214.0,100,52,3,UPI,47.08
+ORD20260686,Bengaluru,North Indian,243.0,200,40,5,UPI,53.46
+ORD20260687,Hyderabad,Pizza/Fast Food,161.0,0,36,4,UPI,35.42
+ORD20260688,Delhi NCR,Chinese,692.0,100,30,4,UPI,152.24
+ORD20260689,Mumbai,Biryani,228.0,50,41,4,Debit Card,50.16
+ORD20260690,Bengaluru,Chinese,489.0,50,35,5,UPI,107.58
+ORD20260691,Delhi NCR,Chinese,470.0,0,28,4,UPI,103.4
+ORD20260692,Delhi NCR,Pizza/Fast Food,275.0,50,44,4,Credit Card,60.5
+ORD20260693,Delhi NCR,North Indian,959.0,150,35,5,UPI,210.98
+ORD20260694,Bengaluru,South Indian,405.0,100,36,2,Credit Card,89.1
+ORD20260695,Bengaluru,North Indian,448.0,50,20,4,Credit Card,98.56
+ORD20260696,Bengaluru,North Indian,395.0,200,40,5,UPI,86.9
+ORD20260697,Delhi NCR,South Indian,529.0,100,42,2,Credit Card,116.38
+ORD20260698,Delhi NCR,North Indian,428.0,50,30,4,UPI,94.16
+ORD20260699,Delhi NCR,Chinese,594.0,100,50,5,Credit Card,130.68
+ORD20260700,Mumbai,North Indian,357.0,100,40,5,UPI,78.54
+ORD20260701,Mumbai,Pizza/Fast Food,598.0,50,43,3,Cash on Delivery,131.56
+ORD20260702,Mumbai,North Indian,517.0,100,45,5,UPI,113.74
+ORD20260703,Delhi NCR,Chinese,149.0,100,39,5,UPI,32.78
+ORD20260704,Bengaluru,Biryani,609.0,0,48,5,UPI,133.98
+ORD20260705,Delhi NCR,Pizza/Fast Food,239.0,0,41,4,UPI,52.58
+ORD20260706,Delhi NCR,North Indian,756.0,200,29,4,UPI,166.32
+ORD20260707,Bengaluru,Pizza/Fast Food,393.0,100,27,4,UPI,86.46
+ORD20260708,Delhi NCR,Biryani,407.0,150,34,5,UPI,89.54
+ORD20260709,Bengaluru,Pizza/Fast Food,578.0,50,50,5,Credit Card,127.16
+ORD20260710,Bengaluru,Biryani,266.0,0,43,4,UPI,58.52
+ORD20260711,Bengaluru,Biryani,426.0,0,39,5,Credit Card,93.72
+ORD20260712,Bengaluru,Pizza/Fast Food,603.0,0,15,4,UPI,132.66
+ORD20260713,Bengaluru,North Indian,467.0,50,44,3,UPI,102.74
+ORD20260714,Bengaluru,Chinese,440.0,200,35,4,Cash on Delivery,96.8
+ORD20260715,Delhi NCR,Pizza/Fast Food,306.0,50,30,4,Credit Card,67.32
+ORD20260716,Bengaluru,North Indian,442.0,200,36,5,Cash on Delivery,97.24
+ORD20260717,Delhi NCR,North Indian,408.0,100,49,5,UPI,89.76
+ORD20260718,Bengaluru,Pizza/Fast Food,435.0,100,40,1,UPI,95.7
+ORD20260719,Bengaluru,South Indian,175.0,150,58,4,UPI,38.5
+ORD20260720,Hyderabad,Biryani,268.0,100,43,5,UPI,58.96
+ORD20260721,Delhi NCR,Pizza/Fast Food,288.0,50,24,5,Cash on Delivery,63.36
+ORD20260722,Delhi NCR,Desserts,664.0,150,35,4,Credit Card,146.08
+ORD20260723,Mumbai,North Indian,369.0,0,15,5,UPI,81.18
+ORD20260724,Delhi NCR,North Indian,400.0,150,44,4,Credit Card,88.0
+ORD20260725,Mumbai,Biryani,254.0,0,41,1,UPI,55.88
+ORD20260726,Mumbai,Chinese,550.0,0,52,4,UPI,121.0
+ORD20260727,Bengaluru,Chinese,555.0,0,27,2,Credit Card,122.1
+ORD20260728,Mumbai,North Indian,441.0,0,37,3,UPI,97.02
+ORD20260729,Mumbai,Biryani,565.0,0,40,4,UPI,124.3
+ORD20260730,Delhi NCR,Biryani,622.0,50,57,5,UPI,136.84
+ORD20260731,Hyderabad,South Indian,589.0,50,35,4,UPI,129.58
+ORD20260732,Delhi NCR,Chinese,208.0,0,38,5,UPI,45.76
+ORD20260733,Mumbai,Biryani,270.0,100,48,5,UPI,59.4
+ORD20260734,Bengaluru,Chinese,438.0,100,39,4,Cash on Delivery,96.36
+ORD20260735,Bengaluru,Pizza/Fast Food,205.0,50,33,3,Credit Card,45.1
+ORD20260736,Delhi NCR,South Indian,294.0,0,40,3,UPI,64.68
+ORD20260737,Bengaluru,North Indian,321.0,0,47,5,Debit Card,70.62
+ORD20260738,Delhi NCR,Biryani,294.0,50,51,5,Cash on Delivery,64.68
+ORD20260739,Delhi NCR,North Indian,149.0,100,64,5,UPI,32.78
+ORD20260740,Delhi NCR,Chinese,429.0,0,31,4,Debit Card,94.38
+ORD20260741,Delhi NCR,North Indian,1077.0,100,36,3,Credit Card,236.94
+ORD20260742,Delhi NCR,Chinese,305.0,50,36,5,Debit Card,67.1
+ORD20260743,Delhi NCR,Chinese,895.0,0,56,5,UPI,196.9
+ORD20260744,Delhi NCR,Biryani,570.0,50,30,4,Debit Card,125.4
+ORD20260745,Mumbai,Biryani,532.0,0,54,3,UPI,117.04
+ORD20260746,Bengaluru,Pizza/Fast Food,634.0,0,48,4,UPI,139.48
+ORD20260747,Hyderabad,Pizza/Fast Food,546.0,100,55,4,UPI,120.12
+ORD20260748,Mumbai,Biryani,537.0,0,58,5,UPI,118.14
+ORD20260749,Delhi NCR,North Indian,328.0,50,33,4,UPI,72.16
+ORD20260750,Delhi NCR,Chinese,318.0,150,53,5,UPI,69.96
+ORD20260751,Hyderabad,North Indian,384.0,50,35,5,UPI,84.48
+ORD20260752,Mumbai,Biryani,557.0,0,54,5,UPI,122.54
+ORD20260753,Mumbai,Chinese,577.0,0,41,2,UPI,126.94
+ORD20260754,Bengaluru,North Indian,149.0,0,64,4,UPI,32.78
+ORD20260755,Hyderabad,Pizza/Fast Food,504.0,50,26,4,UPI,110.88
+ORD20260756,Hyderabad,North Indian,365.0,50,29,3,Credit Card,80.3
+ORD20260757,Delhi NCR,South Indian,296.0,150,29,2,Credit Card,65.12
+ORD20260758,Bengaluru,Biryani,357.0,100,45,4,UPI,78.54
+ORD20260759,Mumbai,North Indian,382.0,200,50,5,UPI,84.04
+ORD20260760,Bengaluru,Chinese,785.0,200,19,4,UPI,172.7
+ORD20260761,Hyderabad,South Indian,584.0,100,33,3,UPI,128.48
+ORD20260762,Mumbai,South Indian,790.0,150,43,5,UPI,173.8
+ORD20260763,Bengaluru,South Indian,201.0,50,28,4,UPI,44.22
+ORD20260764,Delhi NCR,Biryani,271.0,200,38,4,UPI,59.62
+ORD20260765,Bengaluru,Pizza/Fast Food,591.0,100,32,5,UPI,130.02
+ORD20260766,Hyderabad,Pizza/Fast Food,342.0,0,30,2,UPI,75.24
+ORD20260767,Hyderabad,North Indian,225.0,0,60,2,UPI,49.5
+ORD20260768,Mumbai,Biryani,279.0,50,39,3,UPI,61.38
+ORD20260769,Bengaluru,Pizza/Fast Food,428.0,150,30,3,Cash on Delivery,94.16
+ORD20260770,Bengaluru,Biryani,495.0,50,52,5,UPI,108.9
+ORD20260771,Bengaluru,Chinese,761.0,150,26,2,UPI,167.42
+ORD20260772,Hyderabad,Biryani,222.0,150,43,3,UPI,48.84
+ORD20260773,Delhi NCR,North Indian,399.0,50,15,2,UPI,87.78
+ORD20260774,Delhi NCR,North Indian,937.0,0,32,2,UPI,206.14
+ORD20260775,Delhi NCR,North Indian,149.0,0,42,1,UPI,32.78
+ORD20260776,Bengaluru,Chinese,424.0,50,32,5,UPI,93.28
+ORD20260777,Bengaluru,Biryani,354.0,150,29,3,Cash on Delivery,77.88
+ORD20260778,Delhi NCR,South Indian,728.0,0,38,2,Credit Card,160.16
+ORD20260779,Mumbai,Chinese,553.0,200,30,5,UPI,121.66
+ORD20260780,Bengaluru,North Indian,361.0,50,25,3,UPI,79.42
+ORD20260781,Bengaluru,Pizza/Fast Food,393.0,100,27,1,Debit Card,86.46
+ORD20260782,Mumbai,Pizza/Fast Food,443.0,100,29,5,Credit Card,97.46
+ORD20260783,Delhi NCR,Chinese,549.0,50,43,4,Debit Card,120.78
+ORD20260784,Delhi NCR,North Indian,480.0,0,30,4,UPI,105.6
+ORD20260785,Hyderabad,Biryani,254.0,100,44,4,UPI,55.88
+ORD20260786,Mumbai,Chinese,466.0,100,27,5,Cash on Delivery,102.52
+ORD20260787,Delhi NCR,Chinese,191.0,0,15,4,Debit Card,42.02
+ORD20260788,Bengaluru,Pizza/Fast Food,190.0,200,33,3,UPI,41.8
+ORD20260789,Delhi NCR,Biryani,807.0,200,30,3,UPI,177.54
+ORD20260790,Delhi NCR,Chinese,523.0,50,45,2,UPI,115.06
+ORD20260791,Delhi NCR,Pizza/Fast Food,527.0,100,30,4,UPI,115.94
+ORD20260792,Bengaluru,North Indian,178.0,0,36,3,UPI,39.16
+ORD20260793,Bengaluru,Pizza/Fast Food,214.0,0,19,4,Credit Card,47.08
+ORD20260794,Hyderabad,South Indian,261.0,50,25,3,Credit Card,57.42
+ORD20260795,Hyderabad,Pizza/Fast Food,292.0,50,49,4,Debit Card,64.24
+ORD20260796,Bengaluru,Desserts,222.0,0,57,3,UPI,48.84
+ORD20260797,Bengaluru,Pizza/Fast Food,961.0,100,27,4,UPI,211.42
+ORD20260798,Bengaluru,North Indian,487.0,50,27,5,Credit Card,107.14
+ORD20260799,Mumbai,North Indian,879.0,50,52,4,UPI,193.38
+ORD20260800,Mumbai,Pizza/Fast Food,212.0,50,32,3,UPI,46.64
+ORD20260801,Bengaluru,Pizza/Fast Food,656.0,50,20,3,UPI,144.32
+ORD20260802,Delhi NCR,North Indian,415.0,100,40,4,UPI,91.3
+ORD20260803,Bengaluru,Biryani,324.0,0,37,3,UPI,71.28
+ORD20260804,Bengaluru,Pizza/Fast Food,181.0,100,42,1,UPI,39.82
+ORD20260805,Mumbai,Pizza/Fast Food,394.0,200,50,3,Credit Card,86.68
+ORD20260806,Bengaluru,North Indian,203.0,100,47,5,UPI,44.66
+ORD20260807,Bengaluru,Chinese,360.0,0,57,4,Credit Card,79.2
+ORD20260808,Delhi NCR,Biryani,328.0,50,51,1,UPI,72.16
+ORD20260809,Mumbai,Biryani,149.0,0,55,5,Cash on Delivery,32.78
+ORD20260810,Hyderabad,North Indian,538.0,0,52,3,Debit Card,118.36
+ORD20260811,Bengaluru,South Indian,467.0,50,46,4,Cash on Delivery,102.74
+ORD20260812,Delhi NCR,Pizza/Fast Food,430.0,200,36,5,Credit Card,94.6
+ORD20260813,Mumbai,Pizza/Fast Food,324.0,100,24,3,UPI,71.28
+ORD20260814,Bengaluru,Chinese,149.0,100,36,4,Credit Card,32.78
+ORD20260815,Bengaluru,Pizza/Fast Food,385.0,0,42,4,UPI,84.7
+ORD20260816,Mumbai,South Indian,383.0,0,52,4,UPI,84.26
+ORD20260817,Bengaluru,Chinese,405.0,50,15,5,Credit Card,89.1
+ORD20260818,Bengaluru,Biryani,418.0,50,27,4,UPI,91.96
+ORD20260819,Bengaluru,Chinese,852.0,50,24,4,Debit Card,187.44
+ORD20260820,Mumbai,Pizza/Fast Food,562.0,0,22,5,Cash on Delivery,123.64
+ORD20260821,Delhi NCR,Pizza/Fast Food,634.0,0,31,4,UPI,139.48
+ORD20260822,Delhi NCR,North Indian,521.0,100,38,4,UPI,114.62
+ORD20260823,Bengaluru,Biryani,296.0,0,32,5,UPI,65.12
+ORD20260824,Hyderabad,North Indian,767.0,0,54,5,UPI,168.74
+ORD20260825,Bengaluru,Desserts,262.0,0,57,3,UPI,57.64
+ORD20260826,Mumbai,Chinese,619.0,100,27,4,UPI,136.18
+ORD20260827,Hyderabad,Biryani,265.0,100,20,5,UPI,58.3
+ORD20260828,Hyderabad,Desserts,538.0,0,47,4,UPI,118.36
+ORD20260829,Delhi NCR,Biryani,658.0,50,28,3,Credit Card,144.76
+ORD20260830,Bengaluru,Pizza/Fast Food,428.0,0,15,2,Cash on Delivery,94.16
+ORD20260831,Hyderabad,Biryani,492.0,100,19,4,Cash on Delivery,108.24
+ORD20260832,Delhi NCR,Pizza/Fast Food,465.0,50,15,5,Credit Card,102.3
+ORD20260833,Bengaluru,North Indian,573.0,100,21,5,UPI,126.06
+ORD20260834,Delhi NCR,Biryani,363.0,150,17,5,UPI,79.86
+ORD20260835,Delhi NCR,Biryani,392.0,50,35,4,UPI,86.24
+ORD20260836,Delhi NCR,North Indian,533.0,100,57,3,Credit Card,117.26
+ORD20260837,Hyderabad,Biryani,475.0,0,58,3,UPI,104.5
+ORD20260838,Bengaluru,Pizza/Fast Food,504.0,0,53,4,Credit Card,110.88
+ORD20260839,Bengaluru,North Indian,284.0,50,34,5,UPI,62.48
+ORD20260840,Hyderabad,Pizza/Fast Food,379.0,0,15,4,UPI,83.38
+ORD20260841,Bengaluru,South Indian,149.0,200,15,2,UPI,32.78
+ORD20260842,Bengaluru,Biryani,364.0,0,32,3,UPI,80.08
+ORD20260843,Bengaluru,Pizza/Fast Food,746.0,50,57,2,UPI,164.12
+ORD20260844,Delhi NCR,Biryani,283.0,50,44,4,UPI,62.26
+ORD20260845,Hyderabad,Biryani,632.0,0,30,4,UPI,139.04
+ORD20260846,Hyderabad,South Indian,557.0,150,47,4,UPI,122.54
+ORD20260847,Bengaluru,Biryani,397.0,100,52,4,Credit Card,87.34
+ORD20260848,Hyderabad,North Indian,363.0,50,32,2,UPI,79.86
+ORD20260849,Delhi NCR,Pizza/Fast Food,262.0,0,48,5,Credit Card,57.64
+ORD20260850,Delhi NCR,North Indian,531.0,150,49,5,UPI,116.82
+ORD20260851,Delhi NCR,Biryani,852.0,0,30,5,UPI,187.44
+ORD20260852,Delhi NCR,Desserts,931.0,50,43,2,UPI,204.82
+ORD20260853,Hyderabad,Pizza/Fast Food,626.0,50,15,2,UPI,137.72
+ORD20260854,Hyderabad,Biryani,394.0,0,52,3,Credit Card,86.68
+ORD20260855,Mumbai,Chinese,634.0,150,52,5,UPI,139.48
+ORD20260856,Mumbai,Pizza/Fast Food,434.0,0,38,4,Credit Card,95.48
+ORD20260857,Delhi NCR,North Indian,481.0,0,29,2,Credit Card,105.82
+ORD20260858,Bengaluru,South Indian,677.0,0,43,2,UPI,148.94
+ORD20260859,Bengaluru,Desserts,149.0,150,22,5,UPI,32.78
+ORD20260860,Delhi NCR,North Indian,280.0,100,36,2,UPI,61.6
+ORD20260861,Hyderabad,Biryani,946.0,50,56,5,Credit Card,208.12
+ORD20260862,Bengaluru,North Indian,272.0,150,39,5,UPI,59.84
+ORD20260863,Bengaluru,North Indian,522.0,50,46,4,Credit Card,114.84
+ORD20260864,Mumbai,Biryani,413.0,150,51,4,UPI,90.86
+ORD20260865,Bengaluru,Biryani,418.0,150,35,4,UPI,91.96
+ORD20260866,Bengaluru,Biryani,433.0,0,34,3,UPI,95.26
+ORD20260867,Bengaluru,North Indian,648.0,0,43,3,Credit Card,142.56
+ORD20260868,Delhi NCR,Biryani,755.0,100,25,5,UPI,166.1
+ORD20260869,Mumbai,Pizza/Fast Food,157.0,0,47,5,UPI,34.54
+ORD20260870,Delhi NCR,Desserts,280.0,50,39,3,UPI,61.6
+ORD20260871,Hyderabad,North Indian,586.0,0,41,3,Credit Card,128.92
+ORD20260872,Bengaluru,Biryani,224.0,150,29,4,Cash on Delivery,49.28
+ORD20260873,Bengaluru,Biryani,397.0,0,15,4,UPI,87.34
+ORD20260874,Delhi NCR,Pizza/Fast Food,368.0,50,38,4,UPI,80.96
+ORD20260875,Mumbai,Pizza/Fast Food,262.0,150,28,5,UPI,57.64
+ORD20260876,Bengaluru,Chinese,589.0,0,53,5,UPI,129.58
+ORD20260877,Delhi NCR,Pizza/Fast Food,156.0,150,31,1,Cash on Delivery,34.32
+ORD20260878,Delhi NCR,Desserts,209.0,100,21,4,Cash on Delivery,45.98
+ORD20260879,Hyderabad,Chinese,502.0,200,25,3,Debit Card,110.44
+ORD20260880,Mumbai,North Indian,654.0,200,17,4,UPI,143.88
+ORD20260881,Hyderabad,North Indian,539.0,150,45,5,UPI,118.58
+ORD20260882,Bengaluru,Chinese,149.0,50,30,4,UPI,32.78
+ORD20260883,Bengaluru,Biryani,287.0,50,63,4,UPI,63.14
+ORD20260884,Bengaluru,Chinese,286.0,50,35,2,UPI,62.92
+ORD20260885,Delhi NCR,South Indian,495.0,0,23,4,UPI,108.9
+ORD20260886,Bengaluru,Chinese,674.0,100,29,5,Debit Card,148.28
+ORD20260887,Bengaluru,Pizza/Fast Food,185.0,100,49,4,Credit Card,40.7
+ORD20260888,Mumbai,Biryani,607.0,0,53,5,UPI,133.54
+ORD20260889,Bengaluru,Biryani,813.0,100,44,5,UPI,178.86
+ORD20260890,Delhi NCR,North Indian,292.0,100,42,3,Debit Card,64.24
+ORD20260891,Bengaluru,Desserts,815.0,0,36,3,UPI,179.3
+ORD20260892,Bengaluru,Pizza/Fast Food,360.0,50,31,5,UPI,79.2
+ORD20260893,Bengaluru,Pizza/Fast Food,624.0,200,30,4,UPI,137.28
+ORD20260894,Hyderabad,North Indian,201.0,200,37,5,Debit Card,44.22
+ORD20260895,Bengaluru,Chinese,362.0,0,15,4,UPI,79.64
+ORD20260896,Delhi NCR,Pizza/Fast Food,776.0,100,41,5,UPI,170.72
+ORD20260897,Delhi NCR,Biryani,523.0,150,32,4,Cash on Delivery,115.06
+ORD20260898,Bengaluru,North Indian,584.0,0,35,4,UPI,128.48
+ORD20260899,Delhi NCR,North Indian,481.0,0,36,2,UPI,105.82
+ORD20260900,Bengaluru,North Indian,506.0,0,34,4,Credit Card,111.32
+ORD20260901,Bengaluru,Pizza/Fast Food,823.0,200,40,5,UPI,181.06
+ORD20260902,Delhi NCR,North Indian,646.0,50,33,3,Credit Card,142.12
+ORD20260903,Delhi NCR,North Indian,337.0,50,50,5,Credit Card,74.14
+ORD20260904,Bengaluru,Desserts,380.0,50,55,4,UPI,83.6
+ORD20260905,Bengaluru,Chinese,936.0,50,36,4,Debit Card,205.92
+ORD20260906,Mumbai,North Indian,223.0,200,41,4,UPI,49.06
+ORD20260907,Hyderabad,North Indian,308.0,100,32,5,Debit Card,67.76
+ORD20260908,Hyderabad,Biryani,248.0,0,50,5,UPI,54.56
+ORD20260909,Delhi NCR,Chinese,500.0,150,37,5,UPI,110.0
+ORD20260910,Mumbai,Biryani,452.0,0,15,5,UPI,99.44
+ORD20260911,Bengaluru,North Indian,348.0,0,29,4,UPI,76.56
+ORD20260912,Hyderabad,Biryani,361.0,0,50,5,UPI,79.42
+ORD20260913,Delhi NCR,Biryani,278.0,0,34,4,UPI,61.16
+ORD20260914,Delhi NCR,Pizza/Fast Food,215.0,0,34,4,UPI,47.3
+ORD20260915,Hyderabad,South Indian,168.0,0,37,4,UPI,36.96
+ORD20260916,Mumbai,Chinese,354.0,200,20,5,Credit Card,77.88
+ORD20260917,Delhi NCR,North Indian,376.0,200,58,5,UPI,82.72
+ORD20260918,Bengaluru,North Indian,450.0,50,28,4,UPI,99.0
+ORD20260919,Delhi NCR,North Indian,711.0,50,59,4,UPI,156.42
+ORD20260920,Bengaluru,Biryani,253.0,0,30,4,UPI,55.66
+ORD20260921,Hyderabad,Biryani,173.0,0,43,4,UPI,38.06
+ORD20260922,Mumbai,Chinese,193.0,0,39,4,UPI,42.46
+ORD20260923,Bengaluru,Pizza/Fast Food,424.0,100,15,2,UPI,93.28
+ORD20260924,Bengaluru,Biryani,331.0,100,57,4,Credit Card,72.82
+ORD20260925,Delhi NCR,Pizza/Fast Food,355.0,50,34,4,UPI,78.1
+ORD20260926,Hyderabad,North Indian,704.0,200,37,5,Credit Card,154.88
+ORD20260927,Bengaluru,Pizza/Fast Food,342.0,0,35,3,Debit Card,75.24
+ORD20260928,Bengaluru,Pizza/Fast Food,351.0,50,27,2,Credit Card,77.22
+ORD20260929,Delhi NCR,Biryani,381.0,0,33,5,UPI,83.82
+ORD20260930,Mumbai,Pizza/Fast Food,762.0,0,40,5,Cash on Delivery,167.64
+ORD20260931,Hyderabad,North Indian,765.0,0,42,2,UPI,168.3
+ORD20260932,Delhi NCR,South Indian,525.0,100,43,4,Cash on Delivery,115.5
+ORD20260933,Delhi NCR,North Indian,659.0,50,27,4,Debit Card,144.98
+ORD20260934,Bengaluru,North Indian,451.0,50,53,3,UPI,99.22
+ORD20260935,Delhi NCR,Pizza/Fast Food,168.0,200,60,5,UPI,36.96
+ORD20260936,Bengaluru,Pizza/Fast Food,349.0,200,44,4,Debit Card,76.78
+ORD20260937,Delhi NCR,Chinese,735.0,0,39,5,UPI,161.7
+ORD20260938,Delhi NCR,Pizza/Fast Food,293.0,50,41,5,Debit Card,64.46
+ORD20260939,Bengaluru,Pizza/Fast Food,378.0,0,46,3,Credit Card,83.16
+ORD20260940,Delhi NCR,Biryani,419.0,0,46,5,UPI,92.18
+ORD20260941,Mumbai,North Indian,195.0,100,30,5,UPI,42.9
+ORD20260942,Bengaluru,North Indian,395.0,0,37,4,Debit Card,86.9
+ORD20260943,Hyderabad,Biryani,214.0,150,46,3,UPI,47.08
+ORD20260944,Bengaluru,Pizza/Fast Food,413.0,50,53,3,Credit Card,90.86
+ORD20260945,Hyderabad,South Indian,671.0,50,35,5,Credit Card,147.62
+ORD20260946,Delhi NCR,Biryani,869.0,100,27,5,UPI,191.18
+ORD20260947,Delhi NCR,Pizza/Fast Food,465.0,100,41,4,UPI,102.3
+ORD20260948,Bengaluru,Chinese,412.0,0,57,5,UPI,90.64
+ORD20260949,Bengaluru,Biryani,468.0,150,36,4,UPI,102.96
+ORD20260950,Delhi NCR,Biryani,418.0,200,17,2,UPI,91.96
+ORD20260951,Bengaluru,Pizza/Fast Food,440.0,50,41,4,Cash on Delivery,96.8
+ORD20260952,Delhi NCR,Chinese,750.0,100,53,4,Debit Card,165.0
+ORD20260953,Delhi NCR,North Indian,193.0,0,31,5,UPI,42.46
+ORD20260954,Delhi NCR,Biryani,218.0,50,35,4,UPI,47.96
+ORD20260955,Delhi NCR,Desserts,858.0,0,36,3,Debit Card,188.76
+ORD20260956,Bengaluru,Biryani,453.0,0,34,5,Credit Card,99.66
+ORD20260957,Mumbai,North Indian,605.0,0,32,1,UPI,133.1
+ORD20260958,Bengaluru,Pizza/Fast Food,149.0,50,55,3,Debit Card,32.78
+ORD20260959,Delhi NCR,Biryani,520.0,100,29,2,Debit Card,114.4
+ORD20260960,Bengaluru,North Indian,579.0,0,60,4,UPI,127.38
+ORD20260961,Bengaluru,Biryani,429.0,50,41,4,UPI,94.38
+ORD20260962,Delhi NCR,Biryani,283.0,150,22,5,UPI,62.26
+ORD20260963,Delhi NCR,Biryani,306.0,100,41,5,Cash on Delivery,67.32
+ORD20260964,Delhi NCR,Chinese,294.0,0,32,4,Credit Card,64.68
+ORD20260965,Delhi NCR,North Indian,349.0,100,58,5,UPI,76.78
+ORD20260966,Delhi NCR,Desserts,230.0,100,53,1,UPI,50.6
+ORD20260967,Mumbai,Biryani,729.0,50,46,5,UPI,160.38
+ORD20260968,Delhi NCR,Biryani,325.0,50,41,1,UPI,71.5
+ORD20260969,Delhi NCR,Biryani,792.0,0,45,5,Credit Card,174.24
+ORD20260970,Bengaluru,North Indian,227.0,0,51,4,Debit Card,49.94
+ORD20260971,Bengaluru,Biryani,631.0,50,43,4,UPI,138.82
+ORD20260972,Mumbai,Pizza/Fast Food,570.0,0,31,5,Debit Card,125.4
+ORD20260973,Hyderabad,Pizza/Fast Food,527.0,100,46,4,Debit Card,115.94
+ORD20260974,Delhi NCR,Biryani,687.0,50,20,4,UPI,151.14
+ORD20260975,Delhi NCR,North Indian,554.0,0,38,3,UPI,121.88
+ORD20260976,Bengaluru,Chinese,435.0,100,30,4,UPI,95.7
+ORD20260977,Delhi NCR,Desserts,514.0,150,51,4,UPI,113.08
+ORD20260978,Bengaluru,North Indian,279.0,200,43,4,Credit Card,61.38
+ORD20260979,Delhi NCR,South Indian,214.0,0,48,3,Debit Card,47.08
+ORD20260980,Hyderabad,Desserts,167.0,0,38,5,Credit Card,36.74
+ORD20260981,Bengaluru,North Indian,262.0,0,53,4,UPI,57.64
+ORD20260982,Hyderabad,Chinese,296.0,150,50,4,Debit Card,65.12
+ORD20260983,Delhi NCR,Pizza/Fast Food,589.0,0,35,5,UPI,129.58
+ORD20260984,Bengaluru,Chinese,1205.0,50,34,2,Credit Card,265.1
+ORD20260985,Delhi NCR,Biryani,184.0,0,54,5,UPI,40.48
+ORD20260986,Bengaluru,Pizza/Fast Food,277.0,50,23,4,Debit Card,60.94
+ORD20260987,Bengaluru,Pizza/Fast Food,149.0,100,43,4,UPI,32.78
+ORD20260988,Mumbai,Biryani,472.0,50,45,4,Credit Card,103.84
+ORD20260989,Mumbai,Pizza/Fast Food,255.0,50,48,5,UPI,56.1
+ORD20260990,Mumbai,Desserts,731.0,50,35,5,UPI,160.82
+ORD20260991,Delhi NCR,Pizza/Fast Food,689.0,0,51,4,UPI,151.58
+ORD20260992,Mumbai,South Indian,298.0,100,38,5,UPI,65.56
+ORD20260993,Bengaluru,Pizza/Fast Food,767.0,100,25,4,UPI,168.74
+ORD20260994,Delhi NCR,South Indian,823.0,0,36,5,Debit Card,181.06
+ORD20260995,Bengaluru,North Indian,300.0,150,36,5,UPI,66.0
+ORD20260996,Bengaluru,Biryani,323.0,100,47,3,UPI,71.06
+ORD20260997,Delhi NCR,Biryani,218.0,0,60,5,UPI,47.96
+ORD20260998,Mumbai,South Indian,793.0,50,26,4,UPI,174.46
+ORD20260999,Bengaluru,Chinese,572.0,0,46,4,Credit Card,125.84
+ORD20261000,Mumbai,North Indian,473.0,0,18,3,Debit Card,104.06
+ORD20261001,Hyderabad,Biryani,284.0,50,43,5,UPI,62.48
+ORD20261002,Delhi NCR,Pizza/Fast Food,288.0,50,28,4,UPI,63.36
+ORD20261003,Bengaluru,Pizza/Fast Food,539.0,50,45,4,UPI,118.58
+ORD20261004,Hyderabad,Biryani,283.0,0,33,2,Cash on Delivery,62.26
+ORD20261005,Bengaluru,Desserts,234.0,50,46,5,UPI,51.48
+ORD20261006,Delhi NCR,North Indian,267.0,50,37,3,Credit Card,58.74
+ORD20261007,Delhi NCR,Biryani,593.0,50,38,1,UPI,130.46
+ORD20261008,Bengaluru,Desserts,646.0,200,30,3,UPI,142.12
+ORD20261009,Mumbai,North Indian,870.0,50,30,3,Credit Card,191.4
+ORD20261010,Delhi NCR,Biryani,348.0,50,38,5,UPI,76.56
+ORD20261011,Bengaluru,North Indian,377.0,50,29,2,UPI,82.94
+ORD20261012,Hyderabad,Biryani,438.0,100,24,4,UPI,96.36
+ORD20261013,Delhi NCR,South Indian,250.0,150,43,5,UPI,55.0
+ORD20261014,Mumbai,North Indian,579.0,50,41,4,Debit Card,127.38
+ORD20261015,Bengaluru,Biryani,316.0,100,41,5,UPI,69.52
+ORD20261016,Delhi NCR,Chinese,658.0,50,38,5,Cash on Delivery,144.76
+ORD20261017,Hyderabad,North Indian,281.0,0,29,5,UPI,61.82
+ORD20261018,Bengaluru,North Indian,446.0,100,34,2,UPI,98.12
+ORD20261019,Hyderabad,North Indian,370.0,0,37,5,UPI,81.4
+ORD20261020,Bengaluru,Desserts,948.0,200,19,3,UPI,208.56
+ORD20261021,Delhi NCR,Desserts,202.0,50,37,4,Cash on Delivery,44.44
+ORD20261022,Hyderabad,Pizza/Fast Food,427.0,0,38,5,Debit Card,93.94
+ORD20261023,Delhi NCR,South Indian,387.0,100,15,5,Credit Card,85.14
+ORD20261024,Bengaluru,Biryani,363.0,50,49,1,UPI,79.86
+ORD20261025,Hyderabad,North Indian,165.0,0,43,4,UPI,36.3
+ORD20261026,Hyderabad,Chinese,458.0,100,54,5,UPI,100.76
+ORD20261027,Bengaluru,South Indian,785.0,50,46,4,UPI,172.7
+ORD20261028,Bengaluru,Biryani,847.0,50,42,3,UPI,186.34
+ORD20261029,Mumbai,North Indian,193.0,0,34,3,Credit Card,42.46
+ORD20261030,Bengaluru,Chinese,536.0,150,51,2,UPI,117.92
+ORD20261031,Delhi NCR,Chinese,354.0,100,43,5,UPI,77.88
+ORD20261032,Bengaluru,South Indian,668.0,0,25,3,UPI,146.96
+ORD20261033,Hyderabad,South Indian,475.0,0,33,3,Cash on Delivery,104.5
+ORD20261034,Mumbai,North Indian,258.0,100,39,5,UPI,56.76
+ORD20261035,Hyderabad,North Indian,238.0,200,48,4,UPI,52.36
+ORD20261036,Bengaluru,North Indian,625.0,0,36,4,UPI,137.5
+ORD20261037,Hyderabad,Desserts,595.0,0,47,5,UPI,130.9
+ORD20261038,Hyderabad,North Indian,642.0,100,59,5,UPI,141.24
+ORD20261039,Delhi NCR,Chinese,506.0,100,56,5,Cash on Delivery,111.32
+ORD20261040,Delhi NCR,Biryani,505.0,100,21,4,UPI,111.1
+ORD20261041,Hyderabad,Chinese,487.0,50,65,2,UPI,107.14
+ORD20261042,Hyderabad,Pizza/Fast Food,364.0,0,52,5,UPI,80.08
+ORD20261043,Hyderabad,Chinese,411.0,50,50,3,Cash on Delivery,90.42
+ORD20261044,Hyderabad,Biryani,426.0,0,33,4,UPI,93.72
+ORD20261045,Bengaluru,Chinese,184.0,100,31,5,Cash on Delivery,40.48
+ORD20261046,Hyderabad,Desserts,399.0,50,39,4,UPI,87.78
+ORD20261047,Bengaluru,Biryani,256.0,50,53,4,UPI,56.32
+ORD20261048,Delhi NCR,North Indian,1465.0,100,27,2,UPI,322.3
+ORD20261049,Hyderabad,Biryani,391.0,0,56,4,UPI,86.02
+ORD20261050,Hyderabad,Pizza/Fast Food,411.0,0,24,2,UPI,90.42
+ORD20261051,Hyderabad,Pizza/Fast Food,805.0,0,51,3,Debit Card,177.1
+ORD20261052,Bengaluru,North Indian,926.0,100,39,3,UPI,203.72
+ORD20261053,Hyderabad,Pizza/Fast Food,291.0,0,44,5,UPI,64.02
+ORD20261054,Mumbai,North Indian,214.0,0,31,4,UPI,47.08
+ORD20261055,Mumbai,Biryani,390.0,50,32,5,UPI,85.8
+ORD20261056,Delhi NCR,South Indian,282.0,0,30,4,UPI,62.04
+ORD20261057,Bengaluru,South Indian,568.0,0,26,3,UPI,124.96
+ORD20261058,Bengaluru,North Indian,306.0,100,41,5,Cash on Delivery,67.32
+ORD20261059,Delhi NCR,Biryani,289.0,200,39,1,UPI,63.58
+ORD20261060,Mumbai,Biryani,432.0,50,57,5,UPI,95.04
+ORD20261061,Delhi NCR,South Indian,632.0,50,49,2,Cash on Delivery,139.04
+ORD20261062,Delhi NCR,Pizza/Fast Food,486.0,100,30,4,Debit Card,106.92
+ORD20261063,Hyderabad,Chinese,628.0,150,45,4,UPI,138.16
+ORD20261064,Hyderabad,North Indian,359.0,150,37,4,Cash on Delivery,78.98
+ORD20261065,Mumbai,Biryani,258.0,0,42,2,Credit Card,56.76
+ORD20261066,Mumbai,Pizza/Fast Food,345.0,50,21,5,UPI,75.9
+ORD20261067,Mumbai,Biryani,551.0,50,30,4,UPI,121.22
+ORD20261068,Delhi NCR,Desserts,427.0,100,23,4,UPI,93.94
+ORD20261069,Delhi NCR,Desserts,351.0,100,54,4,Credit Card,77.22
+ORD20261070,Delhi NCR,Pizza/Fast Food,321.0,50,51,4,UPI,70.62
+ORD20261071,Bengaluru,Biryani,162.0,50,50,3,UPI,35.64
+ORD20261072,Bengaluru,North Indian,1002.0,150,55,5,Credit Card,220.44
+ORD20261073,Hyderabad,South Indian,342.0,50,35,4,Debit Card,75.24
+ORD20261074,Delhi NCR,Chinese,513.0,50,34,1,Credit Card,112.86
+ORD20261075,Hyderabad,Chinese,372.0,200,38,5,Credit Card,81.84
+ORD20261076,Delhi NCR,Chinese,381.0,50,43,4,UPI,83.82
+ORD20261077,Bengaluru,Biryani,411.0,0,21,3,UPI,90.42
+ORD20261078,Mumbai,Chinese,314.0,0,28,5,UPI,69.08
+ORD20261079,Hyderabad,North Indian,536.0,100,41,5,UPI,117.92
+ORD20261080,Hyderabad,South Indian,787.0,200,32,4,Debit Card,173.14
+ORD20261081,Hyderabad,Pizza/Fast Food,656.0,50,41,4,Debit Card,144.32
+ORD20261082,Hyderabad,Chinese,253.0,200,26,4,UPI,55.66
+ORD20261083,Bengaluru,Chinese,497.0,0,29,4,UPI,109.34
+ORD20261084,Delhi NCR,North Indian,294.0,100,27,2,Debit Card,64.68
+ORD20261085,Delhi NCR,Pizza/Fast Food,274.0,50,45,4,UPI,60.28
+ORD20261086,Hyderabad,South Indian,223.0,100,24,2,UPI,49.06
+ORD20261087,Delhi NCR,Biryani,443.0,150,48,3,UPI,97.46
+ORD20261088,Mumbai,Biryani,162.0,100,29,3,UPI,35.64
+ORD20261089,Mumbai,Biryani,354.0,100,42,5,Cash on Delivery,77.88
+ORD20261090,Bengaluru,Pizza/Fast Food,691.0,0,15,4,UPI,152.02
+ORD20261091,Delhi NCR,Biryani,233.0,50,35,3,UPI,51.26
+ORD20261092,Delhi NCR,Biryani,348.0,0,29,5,UPI,76.56
+ORD20261093,Mumbai,South Indian,417.0,0,41,4,Credit Card,91.74
+ORD20261094,Delhi NCR,Biryani,851.0,0,41,5,UPI,187.22
+ORD20261095,Bengaluru,Chinese,554.0,0,32,4,Credit Card,121.88
+ORD20261096,Delhi NCR,North Indian,178.0,200,22,4,UPI,39.16
+ORD20261097,Mumbai,South Indian,775.0,50,34,4,UPI,170.5
+ORD20261098,Bengaluru,Biryani,462.0,50,26,5,UPI,101.64
+ORD20261099,Delhi NCR,Chinese,189.0,200,35,5,Credit Card,41.58
+ORD20261100,Delhi NCR,North Indian,401.0,100,39,4,Credit Card,88.22
+ORD20261101,Delhi NCR,Biryani,656.0,100,24,5,UPI,144.32
+ORD20261102,Delhi NCR,Pizza/Fast Food,199.0,150,33,4,UPI,43.78
+ORD20261103,Delhi NCR,Chinese,439.0,50,62,3,Credit Card,96.58
+ORD20261104,Mumbai,North Indian,149.0,200,29,3,Cash on Delivery,32.78
+ORD20261105,Bengaluru,North Indian,315.0,100,30,5,Credit Card,69.3
+ORD20261106,Bengaluru,North Indian,586.0,0,41,5,UPI,128.92
+ORD20261107,Delhi NCR,North Indian,717.0,50,20,4,UPI,157.74
+ORD20261108,Bengaluru,Desserts,612.0,100,27,4,Credit Card,134.64
+ORD20261109,Mumbai,Pizza/Fast Food,427.0,150,53,3,Credit Card,93.94
+ORD20261110,Delhi NCR,Chinese,384.0,50,47,5,Debit Card,84.48
+ORD20261111,Delhi NCR,South Indian,523.0,150,47,4,UPI,115.06
+ORD20261112,Delhi NCR,South Indian,602.0,50,25,1,UPI,132.44
+ORD20261113,Bengaluru,North Indian,794.0,100,20,4,Debit Card,174.68
+ORD20261114,Delhi NCR,Pizza/Fast Food,730.0,100,25,1,Credit Card,160.6
+ORD20261115,Hyderabad,Pizza/Fast Food,662.0,50,31,5,UPI,145.64
+ORD20261116,Bengaluru,Biryani,895.0,0,20,2,UPI,196.9
+ORD20261117,Delhi NCR,South Indian,344.0,150,54,4,Debit Card,75.68
+ORD20261118,Bengaluru,North Indian,345.0,100,26,4,Cash on Delivery,75.9
+ORD20261119,Hyderabad,North Indian,252.0,100,32,4,UPI,55.44
+ORD20261120,Delhi NCR,Biryani,264.0,50,32,3,Debit Card,58.08
+ORD20261121,Bengaluru,North Indian,588.0,0,17,5,Debit Card,129.36
+ORD20261122,Bengaluru,Desserts,413.0,200,40,5,UPI,90.86
+ORD20261123,Delhi NCR,Chinese,163.0,100,39,4,Credit Card,35.86
+ORD20261124,Bengaluru,Pizza/Fast Food,216.0,50,31,4,Debit Card,47.52
+ORD20261125,Hyderabad,North Indian,328.0,0,35,5,UPI,72.16
+ORD20261126,Hyderabad,North Indian,149.0,50,34,5,UPI,32.78
+ORD20261127,Bengaluru,Desserts,237.0,200,54,4,UPI,52.14
+ORD20261128,Delhi NCR,South Indian,513.0,150,30,2,Debit Card,112.86
+ORD20261129,Mumbai,Desserts,681.0,50,56,3,UPI,149.82
+ORD20261130,Bengaluru,North Indian,478.0,50,43,4,UPI,105.16
+ORD20261131,Bengaluru,Biryani,320.0,200,46,4,Credit Card,70.4
+ORD20261132,Hyderabad,South Indian,363.0,150,43,4,Cash on Delivery,79.86
+ORD20261133,Mumbai,Pizza/Fast Food,488.0,50,24,2,UPI,107.36
+ORD20261134,Mumbai,Chinese,425.0,200,29,4,UPI,93.5
+ORD20261135,Bengaluru,Pizza/Fast Food,561.0,0,67,4,UPI,123.42
+ORD20261136,Bengaluru,Biryani,349.0,200,28,4,Debit Card,76.78
+ORD20261137,Bengaluru,Biryani,816.0,100,48,4,Credit Card,179.52
+ORD20261138,Bengaluru,North Indian,182.0,0,60,4,UPI,40.04
+ORD20261139,Hyderabad,North Indian,222.0,150,35,4,UPI,48.84
+ORD20261140,Delhi NCR,Biryani,374.0,200,25,5,Cash on Delivery,82.28
+ORD20261141,Mumbai,Pizza/Fast Food,375.0,100,41,4,UPI,82.5
+ORD20261142,Delhi NCR,North Indian,408.0,100,36,5,UPI,89.76
+ORD20261143,Bengaluru,Biryani,533.0,50,34,5,UPI,117.26
+ORD20261144,Bengaluru,Biryani,713.0,0,38,4,UPI,156.86
+ORD20261145,Bengaluru,Pizza/Fast Food,270.0,0,25,4,UPI,59.4
+ORD20261146,Hyderabad,Chinese,322.0,200,28,4,UPI,70.84
+ORD20261147,Bengaluru,Biryani,149.0,200,43,4,Credit Card,32.78
+ORD20261148,Bengaluru,Pizza/Fast Food,591.0,100,41,4,UPI,130.02
+ORD20261149,Hyderabad,Biryani,398.0,0,36,4,UPI,87.56
+ORD20261150,Delhi NCR,Biryani,262.0,0,38,3,UPI,57.64
+ORD20261151,Delhi NCR,South Indian,641.0,50,40,4,UPI,141.02
+ORD20261152,Delhi NCR,North Indian,342.0,100,47,4,UPI,75.24
+ORD20261153,Delhi NCR,North Indian,439.0,200,20,3,Credit Card,96.58
+ORD20261154,Hyderabad,Pizza/Fast Food,547.0,0,46,4,UPI,120.34
+ORD20261155,Hyderabad,Chinese,231.0,50,41,5,UPI,50.82
+ORD20261156,Bengaluru,South Indian,534.0,0,38,5,UPI,117.48
+ORD20261157,Delhi NCR,Desserts,651.0,50,32,3,Cash on Delivery,143.22
+ORD20261158,Hyderabad,Biryani,381.0,0,30,3,UPI,83.82
+ORD20261159,Mumbai,Biryani,375.0,0,38,3,UPI,82.5
+ORD20261160,Mumbai,Desserts,188.0,0,18,4,Credit Card,41.36
+ORD20261161,Bengaluru,Pizza/Fast Food,369.0,50,21,5,Debit Card,81.18
+ORD20261162,Bengaluru,Pizza/Fast Food,622.0,0,38,5,UPI,136.84
+ORD20261163,Delhi NCR,North Indian,453.0,0,34,4,UPI,99.66
+ORD20261164,Mumbai,Desserts,325.0,0,40,3,UPI,71.5
+ORD20261165,Delhi NCR,North Indian,978.0,200,40,4,Credit Card,215.16
+ORD20261166,Delhi NCR,Biryani,512.0,50,46,5,UPI,112.64
+ORD20261167,Mumbai,South Indian,322.0,200,15,5,UPI,70.84
+ORD20261168,Bengaluru,South Indian,262.0,0,49,5,Credit Card,57.64
+ORD20261169,Hyderabad,Biryani,862.0,50,22,4,Credit Card,189.64
+ORD20261170,Delhi NCR,Chinese,383.0,100,41,5,Credit Card,84.26
+ORD20261171,Mumbai,Desserts,623.0,100,42,3,Cash on Delivery,137.06
+ORD20261172,Mumbai,Chinese,747.0,100,48,3,UPI,164.34
+ORD20261173,Bengaluru,Biryani,488.0,50,37,5,Cash on Delivery,107.36
+ORD20261174,Mumbai,Biryani,554.0,200,57,3,Credit Card,121.88
+ORD20261175,Bengaluru,Desserts,400.0,50,65,4,Debit Card,88.0
+ORD20261176,Delhi NCR,Pizza/Fast Food,376.0,100,30,4,UPI,82.72
+ORD20261177,Bengaluru,North Indian,578.0,150,21,3,Debit Card,127.16
+ORD20261178,Delhi NCR,North Indian,502.0,0,31,4,UPI,110.44
+ORD20261179,Delhi NCR,Chinese,793.0,50,46,5,Debit Card,174.46
+ORD20261180,Mumbai,Pizza/Fast Food,390.0,0,64,4,UPI,85.8
+ORD20261181,Delhi NCR,South Indian,292.0,0,38,4,UPI,64.24
+ORD20261182,Hyderabad,Chinese,275.0,200,24,3,UPI,60.5
+ORD20261183,Delhi NCR,Pizza/Fast Food,785.0,0,39,4,Cash on Delivery,172.7
+ORD20261184,Bengaluru,Biryani,711.0,150,38,4,Debit Card,156.42
+ORD20261185,Mumbai,Biryani,673.0,50,28,5,Credit Card,148.06
+ORD20261186,Delhi NCR,North Indian,394.0,200,26,5,UPI,86.68
+ORD20261187,Bengaluru,Pizza/Fast Food,563.0,50,22,5,UPI,123.86
+ORD20261188,Delhi NCR,Pizza/Fast Food,299.0,50,36,5,Credit Card,65.78
+ORD20261189,Delhi NCR,Biryani,809.0,100,47,4,UPI,177.98
+ORD20261190,Bengaluru,Desserts,1149.0,0,35,4,Credit Card,252.78
+ORD20261191,Delhi NCR,Pizza/Fast Food,276.0,150,34,3,UPI,60.72
+ORD20261192,Bengaluru,Chinese,497.0,200,19,4,UPI,109.34
+ORD20261193,Delhi NCR,South Indian,472.0,0,57,2,UPI,103.84
+ORD20261194,Mumbai,Biryani,341.0,50,18,3,Credit Card,75.02
+ORD20261195,Mumbai,North Indian,439.0,0,42,4,UPI,96.58
+ORD20261196,Mumbai,Pizza/Fast Food,273.0,0,30,5,Credit Card,60.06
+ORD20261197,Hyderabad,Chinese,243.0,0,33,5,UPI,53.46
+ORD20261198,Bengaluru,Pizza/Fast Food,446.0,100,41,5,Credit Card,98.12
+ORD20261199,Delhi NCR,Chinese,299.0,50,15,4,UPI,65.78
+ORD20261200,Bengaluru,Pizza/Fast Food,322.0,100,50,3,UPI,70.84
+ORD20261201,Hyderabad,Chinese,394.0,100,15,4,UPI,86.68
+ORD20261202,Delhi NCR,North Indian,570.0,0,30,4,Debit Card,125.4
+ORD20261203,Delhi NCR,Pizza/Fast Food,452.0,0,38,4,UPI,99.44
+ORD20261204,Delhi NCR,Pizza/Fast Food,695.0,150,37,5,UPI,152.9
+ORD20261205,Bengaluru,Biryani,252.0,150,41,5,UPI,55.44
+ORD20261206,Bengaluru,Pizza/Fast Food,470.0,50,16,5,UPI,103.4
+ORD20261207,Hyderabad,Desserts,517.0,50,42,4,UPI,113.74
+ORD20261208,Hyderabad,Chinese,333.0,100,39,5,Credit Card,73.26
+ORD20261209,Bengaluru,Desserts,491.0,0,39,5,Credit Card,108.02
+ORD20261210,Mumbai,South Indian,370.0,100,63,4,UPI,81.4
+ORD20261211,Mumbai,Desserts,405.0,0,32,4,UPI,89.1
+ORD20261212,Delhi NCR,Pizza/Fast Food,276.0,100,67,4,UPI,60.72
+ORD20261213,Mumbai,North Indian,512.0,200,45,4,UPI,112.64
+ORD20261214,Delhi NCR,North Indian,594.0,50,23,3,UPI,130.68
+ORD20261215,Bengaluru,Biryani,766.0,0,45,4,UPI,168.52
+ORD20261216,Delhi NCR,Chinese,993.0,200,38,5,Credit Card,218.46
+ORD20261217,Hyderabad,North Indian,408.0,50,55,4,Cash on Delivery,89.76
+ORD20261218,Bengaluru,North Indian,663.0,0,42,5,UPI,145.86
+ORD20261219,Bengaluru,South Indian,564.0,200,40,1,UPI,124.08
+ORD20261220,Delhi NCR,North Indian,546.0,0,27,5,UPI,120.12
+ORD20261221,Delhi NCR,Chinese,362.0,50,41,4,UPI,79.64
+ORD20261222,Delhi NCR,North Indian,336.0,0,41,4,Cash on Delivery,73.92
+ORD20261223,Mumbai,Pizza/Fast Food,284.0,0,34,3,Credit Card,62.48
+ORD20261224,Delhi NCR,Biryani,601.0,0,32,4,Debit Card,132.22
+ORD20261225,Mumbai,Chinese,328.0,150,30,3,Debit Card,72.16
+ORD20261226,Mumbai,Biryani,362.0,50,47,5,UPI,79.64
+ORD20261227,Delhi NCR,Chinese,525.0,0,15,5,UPI,115.5
+ORD20261228,Delhi NCR,Chinese,191.0,100,31,3,Credit Card,42.02
+ORD20261229,Delhi NCR,North Indian,669.0,100,27,5,UPI,147.18
+ORD20261230,Bengaluru,Pizza/Fast Food,232.0,200,43,1,UPI,51.04
+ORD20261231,Delhi NCR,Desserts,461.0,100,15,5,UPI,101.42
+ORD20261232,Delhi NCR,South Indian,396.0,0,55,5,UPI,87.12
+ORD20261233,Bengaluru,Chinese,654.0,100,54,5,Credit Card,143.88
+ORD20261234,Delhi NCR,Pizza/Fast Food,346.0,100,31,2,UPI,76.12
+ORD20261235,Bengaluru,South Indian,310.0,50,49,4,UPI,68.2
+ORD20261236,Mumbai,Desserts,326.0,0,22,4,Credit Card,71.72
+ORD20261237,Hyderabad,North Indian,608.0,50,31,5,Debit Card,133.76
+ORD20261238,Hyderabad,North Indian,800.0,100,15,3,UPI,176.0
+ORD20261239,Hyderabad,Biryani,331.0,150,42,5,UPI,72.82
+ORD20261240,Bengaluru,Biryani,345.0,50,41,5,Debit Card,75.9
+ORD20261241,Bengaluru,Biryani,548.0,50,36,5,UPI,120.56
+ORD20261242,Bengaluru,Pizza/Fast Food,945.0,50,34,5,UPI,207.9
+ORD20261243,Bengaluru,Chinese,420.0,0,55,2,Credit Card,92.4
+ORD20261244,Hyderabad,Desserts,511.0,100,27,4,Credit Card,112.42
+ORD20261245,Mumbai,Desserts,332.0,200,28,5,UPI,73.04
+ORD20261246,Bengaluru,South Indian,326.0,0,46,5,UPI,71.72
+ORD20261247,Hyderabad,Biryani,425.0,0,52,4,UPI,93.5
+ORD20261248,Mumbai,Biryani,228.0,50,42,4,UPI,50.16
+ORD20261249,Bengaluru,North Indian,276.0,0,50,3,Credit Card,60.72
+ORD20261250,Hyderabad,North Indian,641.0,50,27,5,UPI,141.02
+ORD20261251,Mumbai,South Indian,435.0,50,33,3,UPI,95.7
+ORD20261252,Mumbai,Chinese,377.0,50,40,5,UPI,82.94
+ORD20261253,Delhi NCR,Pizza/Fast Food,293.0,50,32,5,UPI,64.46
+ORD20261254,Delhi NCR,North Indian,545.0,50,40,4,UPI,119.9
+ORD20261255,Mumbai,South Indian,533.0,0,33,3,UPI,117.26
+ORD20261256,Bengaluru,Pizza/Fast Food,424.0,200,15,5,Debit Card,93.28
+ORD20261257,Bengaluru,Chinese,419.0,0,59,2,Cash on Delivery,92.18
+ORD20261258,Bengaluru,Chinese,518.0,150,34,4,Credit Card,113.96
+ORD20261259,Mumbai,North Indian,379.0,50,60,3,Credit Card,83.38
+ORD20261260,Bengaluru,North Indian,695.0,0,49,4,Credit Card,152.9
+ORD20261261,Mumbai,South Indian,788.0,0,22,4,Credit Card,173.36
+ORD20261262,Delhi NCR,South Indian,297.0,50,45,5,UPI,65.34
+ORD20261263,Delhi NCR,South Indian,313.0,50,34,4,UPI,68.86
+ORD20261264,Delhi NCR,South Indian,342.0,0,47,4,UPI,75.24
+ORD20261265,Bengaluru,Chinese,377.0,0,32,5,UPI,82.94
+ORD20261266,Delhi NCR,Biryani,254.0,50,53,4,UPI,55.88
+ORD20261267,Delhi NCR,Desserts,511.0,0,34,5,Credit Card,112.42
+ORD20261268,Bengaluru,Pizza/Fast Food,192.0,100,49,5,Credit Card,42.24
+ORD20261269,Bengaluru,Biryani,280.0,0,15,4,UPI,61.6
+ORD20261270,Hyderabad,North Indian,405.0,150,15,5,UPI,89.1
+ORD20261271,Bengaluru,Desserts,283.0,50,22,3,Debit Card,62.26
+ORD20261272,Bengaluru,Pizza/Fast Food,865.0,50,15,5,UPI,190.3
+ORD20261273,Delhi NCR,Pizza/Fast Food,326.0,100,41,4,UPI,71.72
+ORD20261274,Hyderabad,Biryani,265.0,50,29,4,UPI,58.3
+ORD20261275,Bengaluru,Biryani,472.0,0,46,4,UPI,103.84
+ORD20261276,Bengaluru,Pizza/Fast Food,461.0,50,41,4,UPI,101.42
+ORD20261277,Bengaluru,Desserts,433.0,50,38,3,Cash on Delivery,95.26
+ORD20261278,Mumbai,Desserts,374.0,50,37,4,UPI,82.28
+ORD20261279,Bengaluru,Pizza/Fast Food,246.0,0,56,5,UPI,54.12
+ORD20261280,Bengaluru,Pizza/Fast Food,363.0,0,53,3,Debit Card,79.86
+ORD20261281,Hyderabad,Chinese,652.0,0,53,4,UPI,143.44
+ORD20261282,Delhi NCR,Biryani,352.0,100,37,2,Cash on Delivery,77.44
+ORD20261283,Hyderabad,Biryani,548.0,50,54,5,UPI,120.56
+ORD20261284,Mumbai,Desserts,436.0,0,42,4,Credit Card,95.92
+ORD20261285,Bengaluru,South Indian,328.0,100,49,3,UPI,72.16
+ORD20261286,Delhi NCR,Chinese,309.0,50,40,5,UPI,67.98
+ORD20261287,Bengaluru,Chinese,530.0,50,42,4,UPI,116.6
+ORD20261288,Hyderabad,North Indian,392.0,200,51,4,Debit Card,86.24
+ORD20261289,Delhi NCR,Biryani,320.0,50,39,5,UPI,70.4
+ORD20261290,Hyderabad,Desserts,830.0,50,32,4,UPI,182.6
+ORD20261291,Delhi NCR,North Indian,442.0,0,50,4,UPI,97.24
+ORD20261292,Delhi NCR,South Indian,518.0,50,38,3,UPI,113.96
+ORD20261293,Bengaluru,North Indian,287.0,150,23,5,UPI,63.14
+ORD20261294,Delhi NCR,Desserts,772.0,0,42,2,UPI,169.84
+ORD20261295,Delhi NCR,North Indian,498.0,100,34,5,UPI,109.56
+ORD20261296,Bengaluru,South Indian,547.0,50,45,5,UPI,120.34
+ORD20261297,Mumbai,Biryani,610.0,0,37,4,UPI,134.2
+ORD20261298,Bengaluru,Pizza/Fast Food,177.0,100,31,5,Credit Card,38.94
+ORD20261299,Bengaluru,Biryani,320.0,50,41,3,Credit Card,70.4
+ORD20261300,Mumbai,North Indian,554.0,0,58,3,Credit Card,121.88
+ORD20261301,Bengaluru,South Indian,413.0,50,48,5,Debit Card,90.86
+ORD20261302,Bengaluru,Biryani,358.0,50,27,4,UPI,78.76
+ORD20261303,Bengaluru,Desserts,528.0,200,51,2,UPI,116.16
+ORD20261304,Bengaluru,Pizza/Fast Food,306.0,100,31,5,Debit Card,67.32
+ORD20261305,Bengaluru,Pizza/Fast Food,407.0,0,45,4,UPI,89.54
+ORD20261306,Bengaluru,Biryani,897.0,0,58,3,UPI,197.34
+ORD20261307,Bengaluru,Pizza/Fast Food,479.0,150,39,5,Credit Card,105.38
+ORD20261308,Delhi NCR,Chinese,334.0,0,23,4,Debit Card,73.48
+ORD20261309,Delhi NCR,North Indian,293.0,0,40,5,UPI,64.46
+ORD20261310,Delhi NCR,Biryani,468.0,100,29,4,UPI,102.96
+ORD20261311,Bengaluru,South Indian,324.0,150,52,4,UPI,71.28
+ORD20261312,Delhi NCR,Biryani,209.0,0,35,5,Debit Card,45.98
+ORD20261313,Mumbai,Biryani,638.0,50,32,1,UPI,140.36
+ORD20261314,Bengaluru,Pizza/Fast Food,495.0,0,57,5,UPI,108.9
+ORD20261315,Mumbai,Chinese,293.0,100,43,1,UPI,64.46
+ORD20261316,Bengaluru,Biryani,346.0,0,41,2,UPI,76.12
+ORD20261317,Bengaluru,Biryani,458.0,100,39,2,Debit Card,100.76
+ORD20261318,Bengaluru,South Indian,558.0,50,53,5,UPI,122.76
+ORD20261319,Bengaluru,Biryani,639.0,100,27,4,Cash on Delivery,140.58
+ORD20261320,Bengaluru,North Indian,383.0,200,40,3,Credit Card,84.26
+ORD20261321,Delhi NCR,Pizza/Fast Food,544.0,100,37,4,Debit Card,119.68
+ORD20261322,Mumbai,North Indian,685.0,100,15,2,Credit Card,150.7
+ORD20261323,Bengaluru,South Indian,379.0,0,15,4,Credit Card,83.38
+ORD20261324,Delhi NCR,Biryani,478.0,150,51,4,Cash on Delivery,105.16
+ORD20261325,Delhi NCR,North Indian,375.0,0,33,4,UPI,82.5
+ORD20261326,Delhi NCR,North Indian,996.0,0,64,4,UPI,219.12
+ORD20261327,Mumbai,North Indian,1006.0,50,53,3,Credit Card,221.32
+ORD20261328,Bengaluru,Chinese,207.0,0,29,5,Credit Card,45.54
+ORD20261329,Bengaluru,Pizza/Fast Food,290.0,50,49,5,Credit Card,63.8
+ORD20261330,Bengaluru,Pizza/Fast Food,496.0,50,40,4,UPI,109.12
+ORD20261331,Mumbai,Biryani,688.0,50,33,1,UPI,151.36
+ORD20261332,Bengaluru,South Indian,488.0,0,56,4,UPI,107.36
+ORD20261333,Delhi NCR,North Indian,285.0,200,34,4,UPI,62.7
+ORD20261334,Mumbai,North Indian,668.0,50,33,5,UPI,146.96
+ORD20261335,Delhi NCR,Biryani,486.0,0,15,5,Credit Card,106.92
+ORD20261336,Delhi NCR,Chinese,635.0,0,43,3,UPI,139.7
+ORD20261337,Mumbai,Biryani,281.0,150,15,3,UPI,61.82
+ORD20261338,Delhi NCR,North Indian,784.0,50,32,3,UPI,172.48
+ORD20261339,Bengaluru,Biryani,258.0,0,61,5,UPI,56.76
+ORD20261340,Mumbai,South Indian,355.0,50,31,4,UPI,78.1
+ORD20261341,Bengaluru,Pizza/Fast Food,406.0,50,15,5,UPI,89.32
+ORD20261342,Bengaluru,Chinese,745.0,50,53,5,Credit Card,163.9
+ORD20261343,Mumbai,Biryani,454.0,0,34,4,UPI,99.88
+ORD20261344,Mumbai,Chinese,621.0,150,44,4,UPI,136.62
+ORD20261345,Bengaluru,South Indian,436.0,0,23,4,Cash on Delivery,95.92
+ORD20261346,Mumbai,Biryani,152.0,150,39,4,Cash on Delivery,33.44
+ORD20261347,Bengaluru,North Indian,779.0,50,51,4,UPI,171.38
+ORD20261348,Bengaluru,Desserts,261.0,50,49,5,UPI,57.42
+ORD20261349,Mumbai,Biryani,323.0,100,52,5,Credit Card,71.06
+ORD20261350,Mumbai,North Indian,348.0,0,27,1,UPI,76.56
+ORD20261351,Delhi NCR,Biryani,432.0,100,39,3,Cash on Delivery,95.04
+ORD20261352,Delhi NCR,Chinese,347.0,50,44,4,UPI,76.34
+ORD20261353,Mumbai,Chinese,169.0,50,32,5,UPI,37.18
+ORD20261354,Bengaluru,Pizza/Fast Food,149.0,100,30,3,Credit Card,32.78
+ORD20261355,Mumbai,Desserts,339.0,50,35,4,UPI,74.58
+ORD20261356,Delhi NCR,South Indian,612.0,100,56,4,UPI,134.64
+ORD20261357,Mumbai,Pizza/Fast Food,427.0,50,53,4,UPI,93.94
+ORD20261358,Mumbai,North Indian,524.0,100,24,3,Cash on Delivery,115.28
+ORD20261359,Bengaluru,South Indian,549.0,50,41,5,UPI,120.78
+ORD20261360,Mumbai,North Indian,347.0,150,24,4,UPI,76.34
+ORD20261361,Delhi NCR,North Indian,149.0,0,36,4,UPI,32.78
+ORD20261362,Delhi NCR,North Indian,483.0,50,40,4,UPI,106.26
+ORD20261363,Bengaluru,North Indian,453.0,0,63,5,UPI,99.66
+ORD20261364,Delhi NCR,North Indian,346.0,0,38,4,Cash on Delivery,76.12
+ORD20261365,Bengaluru,North Indian,348.0,50,42,5,UPI,76.56
+ORD20261366,Bengaluru,Biryani,447.0,0,23,4,UPI,98.34
+ORD20261367,Hyderabad,South Indian,491.0,100,34,4,Debit Card,108.02
+ORD20261368,Bengaluru,Chinese,381.0,0,27,4,UPI,83.82
+ORD20261369,Delhi NCR,Chinese,276.0,100,27,5,UPI,60.72
+ORD20261370,Bengaluru,Biryani,273.0,0,46,4,Credit Card,60.06
+ORD20261371,Mumbai,South Indian,199.0,0,42,5,UPI,43.78
+ORD20261372,Delhi NCR,South Indian,494.0,0,56,4,Cash on Delivery,108.68
+ORD20261373,Hyderabad,Chinese,308.0,100,28,3,Credit Card,67.76
+ORD20261374,Delhi NCR,North Indian,381.0,150,39,3,Credit Card,83.82
+ORD20261375,Hyderabad,North Indian,420.0,0,31,4,Credit Card,92.4
+ORD20261376,Bengaluru,North Indian,252.0,0,29,3,UPI,55.44
+ORD20261377,Bengaluru,Chinese,424.0,150,26,4,Debit Card,93.28
+ORD20261378,Bengaluru,Biryani,286.0,0,15,5,Credit Card,62.92
+ORD20261379,Bengaluru,Pizza/Fast Food,375.0,150,55,4,Credit Card,82.5
+ORD20261380,Mumbai,North Indian,410.0,50,50,5,UPI,90.2
+ORD20261381,Mumbai,Biryani,394.0,100,34,4,UPI,86.68
+ORD20261382,Bengaluru,Biryani,270.0,100,21,5,Debit Card,59.4
+ORD20261383,Bengaluru,North Indian,254.0,50,51,1,UPI,55.88
+ORD20261384,Delhi NCR,South Indian,598.0,0,67,5,UPI,131.56
+ORD20261385,Bengaluru,Pizza/Fast Food,576.0,150,40,5,UPI,126.72
+ORD20261386,Bengaluru,Biryani,907.0,100,39,3,UPI,199.54
+ORD20261387,Delhi NCR,Pizza/Fast Food,259.0,50,56,4,Credit Card,56.98
+ORD20261388,Delhi NCR,Biryani,236.0,0,58,5,Credit Card,51.92
+ORD20261389,Mumbai,Chinese,1064.0,100,30,5,Credit Card,234.08
+ORD20261390,Hyderabad,Pizza/Fast Food,295.0,100,34,4,UPI,64.9
+ORD20261391,Delhi NCR,Desserts,339.0,0,20,5,UPI,74.58
+ORD20261392,Mumbai,Chinese,461.0,0,45,3,UPI,101.42
+ORD20261393,Bengaluru,Biryani,380.0,200,41,3,Debit Card,83.6
+ORD20261394,Delhi NCR,South Indian,452.0,150,49,3,UPI,99.44
+ORD20261395,Delhi NCR,Biryani,254.0,100,22,4,UPI,55.88
+ORD20261396,Delhi NCR,Pizza/Fast Food,608.0,50,18,3,Credit Card,133.76
+ORD20261397,Delhi NCR,South Indian,305.0,50,43,5,Debit Card,67.1
+ORD20261398,Bengaluru,Pizza/Fast Food,616.0,0,24,4,UPI,135.52
+ORD20261399,Mumbai,Chinese,475.0,200,45,2,UPI,104.5
+ORD20261400,Bengaluru,Chinese,437.0,100,27,4,UPI,96.14
+ORD20261401,Delhi NCR,Biryani,248.0,100,48,4,UPI,54.56
+ORD20261402,Hyderabad,Biryani,244.0,0,33,4,Credit Card,53.68
+ORD20261403,Bengaluru,South Indian,303.0,100,41,1,UPI,66.66
+ORD20261404,Hyderabad,North Indian,735.0,50,15,4,Credit Card,161.7
+ORD20261405,Mumbai,Biryani,628.0,0,45,3,UPI,138.16
+ORD20261406,Mumbai,Desserts,627.0,200,51,3,UPI,137.94
+ORD20261407,Bengaluru,Chinese,591.0,50,39,2,UPI,130.02
+ORD20261408,Bengaluru,Pizza/Fast Food,525.0,100,29,4,UPI,115.5
+ORD20261409,Bengaluru,Pizza/Fast Food,219.0,0,20,4,UPI,48.18
+ORD20261410,Delhi NCR,North Indian,251.0,0,28,1,Credit Card,55.22
+ORD20261411,Bengaluru,South Indian,320.0,100,28,5,UPI,70.4
+ORD20261412,Hyderabad,Biryani,835.0,0,27,4,UPI,183.7
+ORD20261413,Delhi NCR,Chinese,524.0,150,37,5,Credit Card,115.28
+ORD20261414,Hyderabad,Biryani,339.0,0,49,5,UPI,74.58
+ORD20261415,Hyderabad,Pizza/Fast Food,477.0,50,41,3,Credit Card,104.94
+ORD20261416,Delhi NCR,North Indian,349.0,100,43,4,Credit Card,76.78
+ORD20261417,Bengaluru,North Indian,152.0,100,52,4,Cash on Delivery,33.44
+ORD20261418,Hyderabad,Pizza/Fast Food,177.0,50,47,4,Cash on Delivery,38.94
+ORD20261419,Mumbai,Biryani,1099.0,50,48,4,Credit Card,241.78
+ORD20261420,Delhi NCR,Chinese,272.0,200,47,4,Credit Card,59.84
+ORD20261421,Mumbai,Pizza/Fast Food,417.0,0,67,4,UPI,91.74
+ORD20261422,Bengaluru,Pizza/Fast Food,1015.0,50,18,5,UPI,223.3
+ORD20261423,Hyderabad,Pizza/Fast Food,276.0,0,32,4,Cash on Delivery,60.72
+ORD20261424,Delhi NCR,Pizza/Fast Food,796.0,0,32,1,Credit Card,175.12
+ORD20261425,Mumbai,Chinese,367.0,150,32,5,Credit Card,80.74
+ORD20261426,Mumbai,Biryani,502.0,50,28,3,UPI,110.44
+ORD20261427,Delhi NCR,Biryani,549.0,50,47,4,UPI,120.78
+ORD20261428,Delhi NCR,Chinese,816.0,50,18,3,UPI,179.52
+ORD20261429,Mumbai,Pizza/Fast Food,251.0,0,26,3,Debit Card,55.22
+ORD20261430,Bengaluru,Biryani,807.0,200,32,5,Credit Card,177.54
+ORD20261431,Delhi NCR,North Indian,273.0,50,53,3,Credit Card,60.06
+ORD20261432,Bengaluru,Biryani,461.0,50,20,3,Credit Card,101.42
+ORD20261433,Delhi NCR,Pizza/Fast Food,670.0,50,38,4,UPI,147.4
+ORD20261434,Bengaluru,North Indian,165.0,100,54,5,Cash on Delivery,36.3
+ORD20261435,Delhi NCR,Biryani,442.0,0,38,3,Credit Card,97.24
+ORD20261436,Mumbai,South Indian,325.0,150,35,4,Cash on Delivery,71.5
+ORD20261437,Delhi NCR,Biryani,554.0,50,39,5,Credit Card,121.88
+ORD20261438,Hyderabad,Pizza/Fast Food,222.0,50,58,4,UPI,48.84
+ORD20261439,Bengaluru,South Indian,206.0,100,55,5,UPI,45.32
+ORD20261440,Mumbai,Biryani,300.0,50,38,3,UPI,66.0
+ORD20261441,Delhi NCR,Pizza/Fast Food,548.0,50,37,4,UPI,120.56
+ORD20261442,Hyderabad,Pizza/Fast Food,267.0,0,29,3,UPI,58.74
+ORD20261443,Bengaluru,Biryani,936.0,0,34,5,Debit Card,205.92
+ORD20261444,Delhi NCR,Biryani,376.0,100,44,4,Credit Card,82.72
+ORD20261445,Bengaluru,Pizza/Fast Food,288.0,0,54,4,Credit Card,63.36
+ORD20261446,Mumbai,North Indian,529.0,0,42,5,UPI,116.38
+ORD20261447,Hyderabad,North Indian,569.0,100,36,2,Credit Card,125.18
+ORD20261448,Delhi NCR,Pizza/Fast Food,455.0,100,44,4,UPI,100.1
+ORD20261449,Hyderabad,Biryani,177.0,50,32,5,UPI,38.94
+ORD20261450,Hyderabad,Pizza/Fast Food,208.0,150,21,2,Debit Card,45.76
+ORD20261451,Mumbai,Biryani,576.0,0,39,2,UPI,126.72
+ORD20261452,Delhi NCR,Biryani,409.0,100,46,4,UPI,89.98
+ORD20261453,Mumbai,Chinese,999.0,50,57,4,Credit Card,219.78
+ORD20261454,Mumbai,North Indian,638.0,0,23,5,UPI,140.36
+ORD20261455,Hyderabad,Pizza/Fast Food,384.0,50,40,4,UPI,84.48
+ORD20261456,Mumbai,North Indian,1144.0,200,33,4,UPI,251.68
+ORD20261457,Bengaluru,Chinese,490.0,200,60,4,UPI,107.8
+ORD20261458,Delhi NCR,Desserts,346.0,50,65,5,UPI,76.12
+ORD20261459,Delhi NCR,North Indian,605.0,100,28,5,Credit Card,133.1
+ORD20261460,Hyderabad,Pizza/Fast Food,301.0,50,25,4,UPI,66.22
+ORD20261461,Bengaluru,Pizza/Fast Food,275.0,0,15,4,Credit Card,60.5
+ORD20261462,Delhi NCR,North Indian,427.0,50,28,5,UPI,93.94
+ORD20261463,Bengaluru,Biryani,605.0,0,56,3,UPI,133.1
+ORD20261464,Bengaluru,Biryani,358.0,100,44,5,Credit Card,78.76
+ORD20261465,Delhi NCR,Chinese,149.0,50,28,5,Credit Card,32.78
+ORD20261466,Delhi NCR,North Indian,633.0,100,55,4,UPI,139.26
+ORD20261467,Mumbai,South Indian,577.0,50,38,1,UPI,126.94
+ORD20261468,Mumbai,Desserts,738.0,50,49,5,UPI,162.36
+ORD20261469,Delhi NCR,South Indian,695.0,200,59,5,Credit Card,152.9
+ORD20261470,Bengaluru,North Indian,560.0,100,51,5,UPI,123.2
+ORD20261471,Delhi NCR,Chinese,441.0,150,40,5,Debit Card,97.02
+ORD20261472,Delhi NCR,North Indian,548.0,100,33,3,Debit Card,120.56
+ORD20261473,Delhi NCR,North Indian,393.0,0,15,4,UPI,86.46
+ORD20261474,Mumbai,Biryani,410.0,0,36,3,UPI,90.2
+ORD20261475,Mumbai,Biryani,474.0,0,28,5,Debit Card,104.28
+ORD20261476,Hyderabad,Pizza/Fast Food,530.0,200,64,5,UPI,116.6
+ORD20261477,Mumbai,Chinese,736.0,100,24,5,Credit Card,161.92
+ORD20261478,Bengaluru,North Indian,197.0,50,21,5,Debit Card,43.34
+ORD20261479,Bengaluru,Biryani,149.0,200,34,5,Debit Card,32.78
+ORD20261480,Bengaluru,South Indian,593.0,100,47,2,UPI,130.46
+ORD20261481,Bengaluru,Biryani,224.0,200,31,5,Credit Card,49.28
+ORD20261482,Hyderabad,Pizza/Fast Food,279.0,50,41,4,UPI,61.38
+ORD20261483,Hyderabad,Biryani,181.0,0,48,3,UPI,39.82
+ORD20261484,Mumbai,Biryani,545.0,0,30,2,Credit Card,119.9
+ORD20261485,Delhi NCR,North Indian,536.0,50,39,4,UPI,117.92
+ORD20261486,Bengaluru,Chinese,261.0,50,58,4,UPI,57.42
+ORD20261487,Mumbai,South Indian,488.0,150,58,4,UPI,107.36
+ORD20261488,Hyderabad,Biryani,615.0,150,47,5,UPI,135.3
+ORD20261489,Bengaluru,Chinese,325.0,50,42,1,UPI,71.5
+ORD20261490,Mumbai,North Indian,156.0,150,57,5,Credit Card,34.32
+ORD20261491,Hyderabad,Biryani,363.0,50,44,5,UPI,79.86
+ORD20261492,Bengaluru,South Indian,725.0,50,34,5,Debit Card,159.5
+ORD20261493,Mumbai,Chinese,436.0,0,48,4,UPI,95.92
+ORD20261494,Hyderabad,Biryani,688.0,200,18,5,UPI,151.36
+ORD20261495,Delhi NCR,North Indian,877.0,0,24,5,Debit Card,192.94
+ORD20261496,Mumbai,Pizza/Fast Food,552.0,50,31,5,Debit Card,121.44
+ORD20261497,Bengaluru,Biryani,167.0,150,51,3,Credit Card,36.74
+ORD20261498,Bengaluru,Chinese,497.0,0,54,2,Credit Card,109.34
+ORD20261499,Mumbai,Chinese,359.0,100,34,4,UPI,78.98
+ORD20261500,Hyderabad,Biryani,479.0,50,38,3,UPI,105.38
+ORD20261501,Delhi NCR,Biryani,812.0,50,16,3,Credit Card,178.64
+ORD20261502,Bengaluru,Biryani,446.0,0,40,2,UPI,98.12
+ORD20261503,Delhi NCR,Pizza/Fast Food,234.0,0,43,4,UPI,51.48
+ORD20261504,Mumbai,South Indian,177.0,150,68,5,UPI,38.94
+ORD20261505,Delhi NCR,Chinese,510.0,50,50,3,Debit Card,112.2
+ORD20261506,Mumbai,North Indian,154.0,0,57,5,UPI,33.88
+ORD20261507,Bengaluru,Biryani,378.0,100,25,4,UPI,83.16
+ORD20261508,Bengaluru,North Indian,555.0,200,21,4,UPI,122.1
+ORD20261509,Delhi NCR,North Indian,285.0,150,24,5,UPI,62.7
+ORD20261510,Delhi NCR,North Indian,1025.0,50,41,4,UPI,225.5
+ORD20261511,Delhi NCR,Chinese,687.0,0,42,4,UPI,151.14
+ORD20261512,Bengaluru,Biryani,371.0,0,24,4,Credit Card,81.62
+ORD20261513,Delhi NCR,North Indian,291.0,100,28,3,Cash on Delivery,64.02
+ORD20261514,Mumbai,Biryani,318.0,0,33,4,Cash on Delivery,69.96
+ORD20261515,Hyderabad,South Indian,421.0,50,39,1,UPI,92.62
+ORD20261516,Bengaluru,Chinese,370.0,50,15,3,Credit Card,81.4
+ORD20261517,Hyderabad,North Indian,431.0,200,15,3,UPI,94.82
+ORD20261518,Bengaluru,Biryani,394.0,50,38,4,UPI,86.68
+ORD20261519,Bengaluru,Biryani,436.0,0,27,3,UPI,95.92
+ORD20261520,Delhi NCR,Biryani,314.0,200,15,4,Credit Card,69.08
+ORD20261521,Bengaluru,Biryani,755.0,50,25,3,Credit Card,166.1
+ORD20261522,Mumbai,South Indian,447.0,50,34,5,Debit Card,98.34
+ORD20261523,Bengaluru,North Indian,396.0,0,33,4,UPI,87.12
+ORD20261524,Delhi NCR,Chinese,449.0,0,38,5,Credit Card,98.78
+ORD20261525,Mumbai,Biryani,457.0,100,29,5,UPI,100.54
+ORD20261526,Bengaluru,Biryani,971.0,100,23,5,Debit Card,213.62
+ORD20261527,Bengaluru,Chinese,499.0,200,20,5,Credit Card,109.78
+ORD20261528,Delhi NCR,South Indian,292.0,0,60,5,Debit Card,64.24
+ORD20261529,Mumbai,North Indian,678.0,50,31,5,Credit Card,149.16
+ORD20261530,Bengaluru,Biryani,439.0,0,43,4,Credit Card,96.58
+ORD20261531,Mumbai,Chinese,530.0,50,53,3,Credit Card,116.6
+ORD20261532,Bengaluru,Pizza/Fast Food,220.0,50,34,4,Credit Card,48.4
+ORD20261533,Bengaluru,Biryani,412.0,50,39,3,UPI,90.64
+ORD20261534,Delhi NCR,Chinese,460.0,100,39,4,Cash on Delivery,101.2
+ORD20261535,Mumbai,Biryani,290.0,100,51,4,UPI,63.8
+ORD20261536,Bengaluru,Biryani,287.0,200,32,5,Cash on Delivery,63.14
+ORD20261537,Hyderabad,Biryani,884.0,100,15,4,UPI,194.48
+ORD20261538,Mumbai,Biryani,789.0,200,45,3,UPI,173.58
+ORD20261539,Mumbai,Pizza/Fast Food,782.0,0,52,4,Credit Card,172.04
+ORD20261540,Mumbai,North Indian,689.0,50,47,4,UPI,151.58
+ORD20261541,Hyderabad,North Indian,422.0,100,44,3,UPI,92.84
+ORD20261542,Bengaluru,North Indian,149.0,100,50,4,UPI,32.78
+ORD20261543,Mumbai,South Indian,341.0,200,55,4,UPI,75.02
+ORD20261544,Hyderabad,South Indian,534.0,0,34,5,Credit Card,117.48
+ORD20261545,Delhi NCR,Chinese,583.0,0,25,1,UPI,128.26
+ORD20261546,Bengaluru,Biryani,183.0,100,18,5,Cash on Delivery,40.26
+ORD20261547,Delhi NCR,Pizza/Fast Food,225.0,0,15,4,UPI,49.5
+ORD20261548,Mumbai,Chinese,717.0,100,15,5,UPI,157.74
+ORD20261549,Bengaluru,Biryani,149.0,50,52,5,UPI,32.78
+ORD20261550,Delhi NCR,Chinese,387.0,50,46,3,UPI,85.14
+ORD20261551,Delhi NCR,Biryani,568.0,100,39,4,Credit Card,124.96
+ORD20261552,Bengaluru,Chinese,912.0,100,32,2,Debit Card,200.64
+ORD20261553,Mumbai,North Indian,164.0,100,50,3,UPI,36.08
+ORD20261554,Bengaluru,Biryani,344.0,50,37,5,UPI,75.68
+ORD20261555,Hyderabad,Chinese,466.0,0,39,4,Debit Card,102.52
+ORD20261556,Bengaluru,South Indian,585.0,100,48,4,Credit Card,128.7
+ORD20261557,Bengaluru,Pizza/Fast Food,658.0,0,52,5,UPI,144.76
+ORD20261558,Hyderabad,North Indian,487.0,200,27,3,Credit Card,107.14
+ORD20261559,Bengaluru,North Indian,552.0,100,25,1,Debit Card,121.44
+ORD20261560,Hyderabad,North Indian,640.0,100,45,4,Credit Card,140.8
+ORD20261561,Mumbai,North Indian,381.0,50,40,5,Credit Card,83.82
+ORD20261562,Bengaluru,South Indian,192.0,100,15,4,UPI,42.24
+ORD20261563,Mumbai,Biryani,858.0,100,45,5,Credit Card,188.76
+ORD20261564,Mumbai,Pizza/Fast Food,521.0,50,31,5,Cash on Delivery,114.62
+ORD20261565,Mumbai,Chinese,280.0,0,59,4,UPI,61.6
+ORD20261566,Mumbai,Chinese,447.0,100,43,5,UPI,98.34
+ORD20261567,Hyderabad,Pizza/Fast Food,321.0,50,49,4,UPI,70.62
+ORD20261568,Bengaluru,Pizza/Fast Food,307.0,150,39,4,UPI,67.54
+ORD20261569,Bengaluru,North Indian,221.0,150,60,5,Cash on Delivery,48.62
+ORD20261570,Bengaluru,Biryani,381.0,50,42,3,Credit Card,83.82
+ORD20261571,Mumbai,North Indian,771.0,100,26,4,Credit Card,169.62
+ORD20261572,Delhi NCR,South Indian,669.0,0,41,4,Credit Card,147.18
+ORD20261573,Mumbai,Biryani,197.0,100,30,4,UPI,43.34
+ORD20261574,Delhi NCR,South Indian,196.0,200,22,5,Credit Card,43.12
+ORD20261575,Delhi NCR,Biryani,215.0,200,43,5,Debit Card,47.3
+ORD20261576,Delhi NCR,South Indian,160.0,100,42,5,UPI,35.2
+ORD20261577,Delhi NCR,Desserts,625.0,100,17,4,Debit Card,137.5
+ORD20261578,Bengaluru,Pizza/Fast Food,846.0,100,39,5,UPI,186.12
+ORD20261579,Delhi NCR,Biryani,538.0,200,35,3,UPI,118.36
+ORD20261580,Mumbai,Biryani,465.0,50,31,4,UPI,102.3
+ORD20261581,Delhi NCR,Biryani,439.0,100,47,5,Credit Card,96.58
+ORD20261582,Bengaluru,Chinese,309.0,50,35,4,Credit Card,67.98
+ORD20261583,Bengaluru,Chinese,357.0,0,65,4,UPI,78.54
+ORD20261584,Hyderabad,Pizza/Fast Food,478.0,0,46,1,UPI,105.16
+ORD20261585,Mumbai,Pizza/Fast Food,443.0,50,67,3,UPI,97.46
+ORD20261586,Delhi NCR,North Indian,458.0,150,25,4,Cash on Delivery,100.76
+ORD20261587,Bengaluru,North Indian,427.0,0,34,3,UPI,93.94
+ORD20261588,Delhi NCR,North Indian,262.0,50,49,4,Credit Card,57.64
+ORD20261589,Bengaluru,Pizza/Fast Food,310.0,0,25,4,Credit Card,68.2
+ORD20261590,Bengaluru,Chinese,792.0,150,49,3,Cash on Delivery,174.24
+ORD20261591,Bengaluru,Biryani,337.0,50,31,3,UPI,74.14
+ORD20261592,Delhi NCR,North Indian,480.0,50,48,3,Credit Card,105.6
+ORD20261593,Delhi NCR,North Indian,385.0,50,42,3,Credit Card,84.7
+ORD20261594,Delhi NCR,North Indian,318.0,0,27,3,UPI,69.96
+ORD20261595,Delhi NCR,Chinese,256.0,50,24,4,Cash on Delivery,56.32
+ORD20261596,Hyderabad,Biryani,977.0,150,19,4,UPI,214.94
+ORD20261597,Delhi NCR,North Indian,432.0,0,39,4,Cash on Delivery,95.04
+ORD20261598,Mumbai,South Indian,149.0,50,39,4,UPI,32.78
+ORD20261599,Delhi NCR,Pizza/Fast Food,455.0,100,46,5,UPI,100.1
+ORD20261600,Delhi NCR,North Indian,1505.0,100,42,3,Credit Card,331.1
+ORD20261601,Delhi NCR,Chinese,437.0,200,35,5,UPI,96.14
+ORD20261602,Delhi NCR,Biryani,304.0,0,42,3,Debit Card,66.88
+ORD20261603,Bengaluru,North Indian,573.0,0,49,5,UPI,126.06
+ORD20261604,Mumbai,South Indian,352.0,100,46,3,UPI,77.44
+ORD20261605,Bengaluru,North Indian,361.0,0,45,4,UPI,79.42
+ORD20261606,Bengaluru,North Indian,469.0,50,56,4,Cash on Delivery,103.18
+ORD20261607,Hyderabad,Biryani,997.0,50,49,3,Debit Card,219.34
+ORD20261608,Delhi NCR,Chinese,167.0,50,31,4,Cash on Delivery,36.74
+ORD20261609,Hyderabad,Pizza/Fast Food,391.0,0,47,5,Credit Card,86.02
+ORD20261610,Bengaluru,South Indian,339.0,0,38,5,UPI,74.58
+ORD20261611,Mumbai,Desserts,265.0,150,26,3,UPI,58.3
+ORD20261612,Hyderabad,Biryani,805.0,100,23,4,UPI,177.1
+ORD20261613,Hyderabad,Biryani,621.0,100,42,5,UPI,136.62
+ORD20261614,Mumbai,Biryani,371.0,50,51,4,UPI,81.62
+ORD20261615,Mumbai,Chinese,435.0,0,32,5,UPI,95.7
+ORD20261616,Delhi NCR,Chinese,205.0,50,40,5,UPI,45.1
+ORD20261617,Bengaluru,Biryani,811.0,50,31,5,UPI,178.42
+ORD20261618,Bengaluru,North Indian,576.0,0,46,4,Credit Card,126.72
+ORD20261619,Bengaluru,South Indian,311.0,0,53,4,UPI,68.42
+ORD20261620,Delhi NCR,Pizza/Fast Food,786.0,50,47,5,UPI,172.92
+ORD20261621,Delhi NCR,South Indian,634.0,50,49,4,Credit Card,139.48
+ORD20261622,Delhi NCR,Biryani,438.0,100,47,5,UPI,96.36
+ORD20261623,Delhi NCR,Desserts,228.0,0,23,3,UPI,50.16
+ORD20261624,Bengaluru,Chinese,815.0,50,43,4,Credit Card,179.3
+ORD20261625,Mumbai,Pizza/Fast Food,747.0,50,43,5,UPI,164.34
+ORD20261626,Delhi NCR,Desserts,259.0,50,28,5,UPI,56.98
+ORD20261627,Mumbai,South Indian,648.0,200,36,5,Cash on Delivery,142.56
+ORD20261628,Delhi NCR,Biryani,317.0,150,38,3,Credit Card,69.74
+ORD20261629,Bengaluru,North Indian,305.0,50,24,4,UPI,67.1
+ORD20261630,Bengaluru,South Indian,368.0,100,31,4,UPI,80.96
+ORD20261631,Mumbai,Pizza/Fast Food,596.0,150,48,5,Debit Card,131.12
+ORD20261632,Bengaluru,North Indian,765.0,100,42,4,Credit Card,168.3
+ORD20261633,Bengaluru,South Indian,436.0,0,31,4,UPI,95.92
+ORD20261634,Bengaluru,North Indian,535.0,100,52,4,Cash on Delivery,117.7
+ORD20261635,Bengaluru,Pizza/Fast Food,192.0,50,26,1,Credit Card,42.24
+ORD20261636,Delhi NCR,Pizza/Fast Food,364.0,100,58,3,Debit Card,80.08
+ORD20261637,Hyderabad,Pizza/Fast Food,286.0,100,18,3,Debit Card,62.92
+ORD20261638,Hyderabad,South Indian,298.0,200,38,4,UPI,65.56
+ORD20261639,Bengaluru,Chinese,166.0,0,53,3,UPI,36.52
+ORD20261640,Delhi NCR,Pizza/Fast Food,655.0,50,15,3,UPI,144.1
+ORD20261641,Bengaluru,Pizza/Fast Food,575.0,100,29,4,Debit Card,126.5
+ORD20261642,Delhi NCR,South Indian,387.0,50,57,2,UPI,85.14
+ORD20261643,Hyderabad,Desserts,379.0,50,41,4,Credit Card,83.38
+ORD20261644,Bengaluru,South Indian,237.0,0,34,3,Credit Card,52.14
+ORD20261645,Bengaluru,South Indian,603.0,50,45,5,Cash on Delivery,132.66
+ORD20261646,Delhi NCR,North Indian,149.0,100,24,4,UPI,32.78
+ORD20261647,Mumbai,Chinese,260.0,50,15,4,UPI,57.2
+ORD20261648,Delhi NCR,North Indian,810.0,0,18,5,Credit Card,178.2
+ORD20261649,Mumbai,Pizza/Fast Food,238.0,0,39,4,UPI,52.36
+ORD20261650,Delhi NCR,Desserts,524.0,100,35,3,UPI,115.28
+ORD20261651,Bengaluru,North Indian,238.0,0,35,2,Debit Card,52.36
+ORD20261652,Mumbai,Pizza/Fast Food,259.0,0,49,1,UPI,56.98
+ORD20261653,Hyderabad,South Indian,665.0,0,39,4,Credit Card,146.3
+ORD20261654,Mumbai,Pizza/Fast Food,470.0,0,34,4,UPI,103.4
+ORD20261655,Delhi NCR,Biryani,433.0,200,34,4,UPI,95.26
+ORD20261656,Delhi NCR,South Indian,401.0,0,38,4,Credit Card,88.22
+ORD20261657,Delhi NCR,Biryani,761.0,50,31,3,Cash on Delivery,167.42
+ORD20261658,Bengaluru,North Indian,280.0,0,36,5,UPI,61.6
+ORD20261659,Mumbai,South Indian,657.0,50,17,3,Debit Card,144.54
+ORD20261660,Delhi NCR,Pizza/Fast Food,853.0,0,42,3,UPI,187.66
+ORD20261661,Delhi NCR,Biryani,447.0,0,34,4,UPI,98.34
+ORD20261662,Bengaluru,North Indian,483.0,0,35,5,UPI,106.26
+ORD20261663,Delhi NCR,Pizza/Fast Food,336.0,200,27,3,Cash on Delivery,73.92
+ORD20261664,Hyderabad,Biryani,313.0,200,32,5,UPI,68.86
+ORD20261665,Delhi NCR,Biryani,398.0,50,31,4,Cash on Delivery,87.56
+ORD20261666,Mumbai,North Indian,383.0,50,35,3,UPI,84.26
+ORD20261667,Delhi NCR,North Indian,635.0,50,32,4,Debit Card,139.7
+ORD20261668,Delhi NCR,North Indian,647.0,50,43,4,Credit Card,142.34
+ORD20261669,Bengaluru,South Indian,572.0,200,39,4,Credit Card,125.84
+ORD20261670,Mumbai,Pizza/Fast Food,380.0,100,45,5,Debit Card,83.6
+ORD20261671,Delhi NCR,Biryani,602.0,150,35,4,Credit Card,132.44
+ORD20261672,Bengaluru,Biryani,525.0,0,33,4,UPI,115.5
+ORD20261673,Mumbai,Biryani,200.0,150,49,4,UPI,44.0
+ORD20261674,Hyderabad,Biryani,323.0,150,30,5,Cash on Delivery,71.06
+ORD20261675,Mumbai,North Indian,574.0,100,51,4,UPI,126.28
+ORD20261676,Bengaluru,North Indian,1269.0,0,45,4,UPI,279.18
+ORD20261677,Bengaluru,Pizza/Fast Food,510.0,0,41,3,UPI,112.2
+ORD20261678,Hyderabad,Biryani,149.0,50,40,2,UPI,32.78
+ORD20261679,Mumbai,South Indian,470.0,150,43,4,Debit Card,103.4
+ORD20261680,Delhi NCR,South Indian,266.0,200,33,4,Cash on Delivery,58.52
+ORD20261681,Delhi NCR,Desserts,514.0,0,36,3,Cash on Delivery,113.08
+ORD20261682,Delhi NCR,Pizza/Fast Food,295.0,50,23,4,UPI,64.9
+ORD20261683,Delhi NCR,North Indian,392.0,0,47,4,UPI,86.24
+ORD20261684,Hyderabad,Biryani,650.0,50,32,4,UPI,143.0
+ORD20261685,Delhi NCR,South Indian,303.0,0,32,3,Credit Card,66.66
+ORD20261686,Bengaluru,Pizza/Fast Food,724.0,50,63,5,UPI,159.28
+ORD20261687,Mumbai,North Indian,266.0,0,52,5,Credit Card,58.52
+ORD20261688,Mumbai,Biryani,487.0,50,15,4,UPI,107.14
+ORD20261689,Bengaluru,Biryani,383.0,0,64,4,Cash on Delivery,84.26
+ORD20261690,Bengaluru,North Indian,511.0,200,23,4,Debit Card,112.42
+ORD20261691,Delhi NCR,North Indian,336.0,50,53,3,UPI,73.92
+ORD20261692,Bengaluru,North Indian,400.0,100,34,4,UPI,88.0
+ORD20261693,Mumbai,North Indian,149.0,150,57,4,UPI,32.78
+ORD20261694,Mumbai,South Indian,355.0,50,40,4,UPI,78.1
+ORD20261695,Mumbai,North Indian,504.0,50,56,5,Credit Card,110.88
+ORD20261696,Bengaluru,North Indian,417.0,50,32,4,Cash on Delivery,91.74
+ORD20261697,Bengaluru,Biryani,623.0,200,29,4,UPI,137.06
+ORD20261698,Mumbai,Biryani,187.0,0,36,5,Credit Card,41.14
+ORD20261699,Mumbai,South Indian,424.0,50,44,4,Credit Card,93.28
+ORD20261700,Bengaluru,Pizza/Fast Food,371.0,200,65,4,Credit Card,81.62
+ORD20261701,Bengaluru,Pizza/Fast Food,675.0,50,32,5,UPI,148.5
+ORD20261702,Hyderabad,Biryani,625.0,50,26,5,Credit Card,137.5
+ORD20261703,Bengaluru,Biryani,551.0,0,44,5,Credit Card,121.22
+ORD20261704,Mumbai,North Indian,249.0,50,40,4,UPI,54.78
+ORD20261705,Delhi NCR,Chinese,316.0,50,39,5,UPI,69.52
+ORD20261706,Mumbai,South Indian,471.0,50,50,5,Credit Card,103.62
+ORD20261707,Mumbai,Chinese,149.0,100,30,5,UPI,32.78
+ORD20261708,Bengaluru,Biryani,349.0,150,52,4,Credit Card,76.78
+ORD20261709,Bengaluru,South Indian,481.0,50,49,5,UPI,105.82
+ORD20261710,Mumbai,Biryani,256.0,0,17,5,Credit Card,56.32
+ORD20261711,Delhi NCR,Pizza/Fast Food,512.0,50,15,3,Debit Card,112.64
+ORD20261712,Delhi NCR,Chinese,155.0,50,42,5,Credit Card,34.1
+ORD20261713,Delhi NCR,Chinese,341.0,100,36,4,UPI,75.02
+ORD20261714,Bengaluru,South Indian,205.0,100,49,4,UPI,45.1
+ORD20261715,Hyderabad,Biryani,743.0,0,45,4,UPI,163.46
+ORD20261716,Mumbai,Biryani,701.0,150,32,1,Debit Card,154.22
+ORD20261717,Bengaluru,North Indian,517.0,50,40,4,UPI,113.74
+ORD20261718,Delhi NCR,Chinese,569.0,50,57,4,Credit Card,125.18
+ORD20261719,Bengaluru,Biryani,197.0,50,51,1,Cash on Delivery,43.34
+ORD20261720,Mumbai,Biryani,245.0,150,34,3,UPI,53.9
+ORD20261721,Delhi NCR,Biryani,217.0,150,28,2,Credit Card,47.74
+ORD20261722,Hyderabad,Chinese,291.0,0,40,2,Credit Card,64.02
+ORD20261723,Delhi NCR,Biryani,771.0,150,17,5,UPI,169.62
+ORD20261724,Bengaluru,Biryani,192.0,150,35,4,Debit Card,42.24
+ORD20261725,Bengaluru,North Indian,191.0,50,44,3,UPI,42.02
+ORD20261726,Bengaluru,South Indian,226.0,0,44,3,UPI,49.72
+ORD20261727,Bengaluru,North Indian,287.0,0,42,5,UPI,63.14
+ORD20261728,Delhi NCR,Chinese,370.0,0,45,4,UPI,81.4
+ORD20261729,Bengaluru,Biryani,742.0,50,23,4,UPI,163.24
+ORD20261730,Delhi NCR,North Indian,288.0,0,15,5,UPI,63.36
+ORD20261731,Bengaluru,Biryani,180.0,0,32,4,UPI,39.6
+ORD20261732,Bengaluru,North Indian,333.0,200,26,3,Cash on Delivery,73.26
+ORD20261733,Bengaluru,South Indian,149.0,0,36,1,Credit Card,32.78
+ORD20261734,Delhi NCR,Pizza/Fast Food,665.0,50,31,4,Debit Card,146.3
+ORD20261735,Delhi NCR,North Indian,526.0,50,59,4,UPI,115.72
+ORD20261736,Delhi NCR,North Indian,520.0,50,28,4,UPI,114.4
+ORD20261737,Bengaluru,North Indian,257.0,0,47,4,UPI,56.54
+ORD20261738,Bengaluru,Chinese,604.0,0,34,5,Credit Card,132.88
+ORD20261739,Mumbai,Chinese,437.0,150,36,4,Credit Card,96.14
+ORD20261740,Delhi NCR,South Indian,418.0,0,35,4,Credit Card,91.96
+ORD20261741,Bengaluru,Pizza/Fast Food,335.0,50,44,2,UPI,73.7
+ORD20261742,Hyderabad,Chinese,288.0,0,24,4,Cash on Delivery,63.36
+ORD20261743,Bengaluru,North Indian,504.0,0,33,5,UPI,110.88
+ORD20261744,Mumbai,North Indian,149.0,200,38,5,UPI,32.78
+ORD20261745,Bengaluru,Biryani,320.0,50,40,5,Cash on Delivery,70.4
+ORD20261746,Bengaluru,Biryani,428.0,0,37,5,UPI,94.16
+ORD20261747,Bengaluru,Biryani,373.0,0,50,5,UPI,82.06
+ORD20261748,Bengaluru,South Indian,177.0,50,57,4,Credit Card,38.94
+ORD20261749,Mumbai,North Indian,554.0,0,25,4,Debit Card,121.88
+ORD20261750,Hyderabad,Chinese,489.0,0,40,3,UPI,107.58
+ORD20261751,Hyderabad,North Indian,705.0,0,68,4,UPI,155.1
+ORD20261752,Mumbai,Chinese,337.0,0,22,5,UPI,74.14
+ORD20261753,Delhi NCR,Desserts,695.0,0,35,4,UPI,152.9
+ORD20261754,Bengaluru,Desserts,340.0,50,33,4,UPI,74.8
+ORD20261755,Mumbai,North Indian,361.0,100,36,4,Credit Card,79.42
+ORD20261756,Mumbai,North Indian,395.0,50,42,5,UPI,86.9
+ORD20261757,Bengaluru,Pizza/Fast Food,311.0,0,25,2,UPI,68.42
+ORD20261758,Mumbai,Chinese,353.0,100,35,5,UPI,77.66
+ORD20261759,Delhi NCR,Desserts,276.0,150,25,5,UPI,60.72
+ORD20261760,Delhi NCR,Biryani,455.0,150,30,5,UPI,100.1
+ORD20261761,Mumbai,Biryani,212.0,0,30,4,UPI,46.64
+ORD20261762,Hyderabad,Pizza/Fast Food,214.0,100,46,5,UPI,47.08
+ORD20261763,Bengaluru,Chinese,348.0,100,37,3,Debit Card,76.56
+ORD20261764,Delhi NCR,South Indian,1299.0,50,28,4,UPI,285.78
+ORD20261765,Mumbai,North Indian,351.0,0,33,4,Credit Card,77.22
+ORD20261766,Mumbai,Desserts,149.0,0,48,4,UPI,32.78
+ORD20261767,Bengaluru,Biryani,929.0,50,38,3,Credit Card,204.38
+ORD20261768,Hyderabad,Chinese,215.0,0,40,4,Credit Card,47.3
+ORD20261769,Hyderabad,North Indian,335.0,50,41,5,Credit Card,73.7
+ORD20261770,Delhi NCR,North Indian,301.0,50,33,4,UPI,66.22
+ORD20261771,Mumbai,Pizza/Fast Food,446.0,100,37,4,UPI,98.12
+ORD20261772,Hyderabad,Pizza/Fast Food,332.0,50,62,4,Credit Card,73.04
+ORD20261773,Bengaluru,Biryani,329.0,0,37,4,UPI,72.38
+ORD20261774,Delhi NCR,South Indian,361.0,0,49,4,Credit Card,79.42
+ORD20261775,Delhi NCR,Pizza/Fast Food,522.0,50,25,4,UPI,114.84
+ORD20261776,Bengaluru,North Indian,341.0,0,29,5,Credit Card,75.02
+ORD20261777,Bengaluru,Pizza/Fast Food,636.0,0,29,4,UPI,139.92
+ORD20261778,Bengaluru,South Indian,152.0,150,41,4,Cash on Delivery,33.44
+ORD20261779,Delhi NCR,North Indian,470.0,50,39,2,UPI,103.4
+ORD20261780,Bengaluru,Chinese,149.0,0,45,4,UPI,32.78
+ORD20261781,Delhi NCR,Chinese,515.0,50,28,3,Credit Card,113.3
+ORD20261782,Bengaluru,Chinese,367.0,50,46,5,UPI,80.74
+ORD20261783,Bengaluru,Chinese,406.0,0,42,5,UPI,89.32
+ORD20261784,Hyderabad,South Indian,856.0,0,36,4,UPI,188.32
+ORD20261785,Delhi NCR,North Indian,425.0,100,21,4,Credit Card,93.5
+ORD20261786,Mumbai,Pizza/Fast Food,258.0,100,15,5,UPI,56.76
+ORD20261787,Bengaluru,North Indian,758.0,0,42,3,UPI,166.76
+ORD20261788,Bengaluru,North Indian,318.0,0,44,4,Debit Card,69.96
+ORD20261789,Delhi NCR,South Indian,213.0,50,68,4,UPI,46.86
+ORD20261790,Hyderabad,Biryani,149.0,0,55,2,Debit Card,32.78
+ORD20261791,Mumbai,Pizza/Fast Food,701.0,100,33,4,UPI,154.22
+ORD20261792,Delhi NCR,Pizza/Fast Food,368.0,0,46,3,UPI,80.96
+ORD20261793,Mumbai,Desserts,247.0,50,22,2,UPI,54.34
+ORD20261794,Mumbai,Biryani,527.0,0,43,5,UPI,115.94
+ORD20261795,Delhi NCR,North Indian,455.0,50,44,5,UPI,100.1
+ORD20261796,Bengaluru,Pizza/Fast Food,824.0,150,40,2,UPI,181.28
+ORD20261797,Delhi NCR,Pizza/Fast Food,567.0,0,46,4,UPI,124.74
+ORD20261798,Mumbai,Desserts,526.0,200,43,5,UPI,115.72
+ORD20261799,Bengaluru,North Indian,491.0,50,26,4,UPI,108.02
+ORD20261800,Hyderabad,Chinese,236.0,100,42,3,UPI,51.92
+ORD20261801,Delhi NCR,North Indian,806.0,50,23,4,Credit Card,177.32
+ORD20261802,Bengaluru,Biryani,149.0,0,37,4,Cash on Delivery,32.78
+ORD20261803,Hyderabad,Biryani,366.0,200,42,4,UPI,80.52
+ORD20261804,Delhi NCR,North Indian,466.0,200,42,3,Cash on Delivery,102.52
+ORD20261805,Mumbai,Biryani,440.0,100,43,4,Credit Card,96.8
+ORD20261806,Bengaluru,Biryani,285.0,0,26,4,UPI,62.7
+ORD20261807,Bengaluru,Pizza/Fast Food,309.0,50,18,1,UPI,67.98
+ORD20261808,Bengaluru,Pizza/Fast Food,293.0,0,15,2,UPI,64.46
+ORD20261809,Hyderabad,North Indian,215.0,100,31,4,UPI,47.3
+ORD20261810,Bengaluru,South Indian,156.0,100,46,5,UPI,34.32
+ORD20261811,Hyderabad,North Indian,759.0,0,36,2,UPI,166.98
+ORD20261812,Bengaluru,Biryani,309.0,100,49,4,Cash on Delivery,67.98
+ORD20261813,Hyderabad,North Indian,738.0,150,16,1,Cash on Delivery,162.36
+ORD20261814,Bengaluru,North Indian,210.0,0,44,5,UPI,46.2
+ORD20261815,Bengaluru,Chinese,628.0,0,47,5,UPI,138.16
+ORD20261816,Bengaluru,Biryani,324.0,200,41,4,UPI,71.28
+ORD20261817,Hyderabad,South Indian,326.0,50,23,5,Credit Card,71.72
+ORD20261818,Bengaluru,Biryani,227.0,0,40,4,UPI,49.94
+ORD20261819,Delhi NCR,North Indian,365.0,200,32,4,Cash on Delivery,80.3
+ORD20261820,Hyderabad,Biryani,271.0,0,34,1,UPI,59.62
+ORD20261821,Bengaluru,Pizza/Fast Food,438.0,100,38,1,Credit Card,96.36
+ORD20261822,Hyderabad,Pizza/Fast Food,475.0,0,45,2,UPI,104.5
+ORD20261823,Bengaluru,Pizza/Fast Food,627.0,50,49,2,Credit Card,137.94
+ORD20261824,Mumbai,Biryani,303.0,200,37,4,UPI,66.66
+ORD20261825,Bengaluru,North Indian,566.0,0,34,4,Credit Card,124.52
+ORD20261826,Bengaluru,Chinese,736.0,0,26,4,Cash on Delivery,161.92
+ORD20261827,Delhi NCR,North Indian,241.0,0,32,4,UPI,53.02
+ORD20261828,Bengaluru,Chinese,419.0,100,19,4,UPI,92.18
+ORD20261829,Bengaluru,Pizza/Fast Food,383.0,100,47,5,Cash on Delivery,84.26
+ORD20261830,Hyderabad,South Indian,524.0,50,62,5,Debit Card,115.28
+ORD20261831,Delhi NCR,North Indian,590.0,0,61,4,Credit Card,129.8
+ORD20261832,Bengaluru,Pizza/Fast Food,383.0,100,43,2,UPI,84.26
+ORD20261833,Bengaluru,Pizza/Fast Food,536.0,0,41,3,Debit Card,117.92
+ORD20261834,Bengaluru,Chinese,350.0,0,47,5,UPI,77.0
+ORD20261835,Hyderabad,South Indian,385.0,150,31,5,UPI,84.7
+ORD20261836,Delhi NCR,Chinese,670.0,50,21,4,UPI,147.4
+ORD20261837,Delhi NCR,North Indian,281.0,100,35,3,UPI,61.82
+ORD20261838,Mumbai,North Indian,215.0,100,33,5,UPI,47.3
+ORD20261839,Delhi NCR,North Indian,276.0,0,44,4,UPI,60.72
+ORD20261840,Mumbai,Pizza/Fast Food,450.0,100,21,2,Credit Card,99.0
+ORD20261841,Bengaluru,Chinese,623.0,0,31,5,UPI,137.06
+ORD20261842,Bengaluru,Chinese,319.0,100,27,2,Credit Card,70.18
+ORD20261843,Bengaluru,Biryani,497.0,100,51,4,UPI,109.34
+ORD20261844,Hyderabad,Chinese,322.0,150,66,4,UPI,70.84
+ORD20261845,Hyderabad,Pizza/Fast Food,523.0,50,52,4,UPI,115.06
+ORD20261846,Delhi NCR,Desserts,492.0,100,31,2,Credit Card,108.24
+ORD20261847,Mumbai,North Indian,297.0,50,56,3,Credit Card,65.34
+ORD20261848,Bengaluru,North Indian,378.0,0,51,3,Debit Card,83.16
+ORD20261849,Hyderabad,North Indian,576.0,100,36,5,UPI,126.72
+ORD20261850,Mumbai,North Indian,459.0,0,15,5,UPI,100.98
+ORD20261851,Bengaluru,North Indian,471.0,0,49,4,UPI,103.62
+ORD20261852,Mumbai,Chinese,179.0,200,39,4,UPI,39.38
+ORD20261853,Bengaluru,Chinese,911.0,50,37,5,UPI,200.42
+ORD20261854,Hyderabad,Biryani,353.0,100,46,5,UPI,77.66
+ORD20261855,Hyderabad,Biryani,407.0,0,59,3,Debit Card,89.54
+ORD20261856,Delhi NCR,Biryani,898.0,50,33,4,Debit Card,197.56
+ORD20261857,Mumbai,Chinese,496.0,50,24,3,Cash on Delivery,109.12
+ORD20261858,Delhi NCR,Biryani,389.0,0,52,3,Debit Card,85.58
+ORD20261859,Mumbai,Pizza/Fast Food,1171.0,0,15,3,Credit Card,257.62
+ORD20261860,Hyderabad,Biryani,306.0,50,27,4,UPI,67.32
+ORD20261861,Delhi NCR,South Indian,575.0,0,37,5,Cash on Delivery,126.5
+ORD20261862,Bengaluru,North Indian,260.0,0,35,5,UPI,57.2
+ORD20261863,Mumbai,South Indian,519.0,50,26,5,UPI,114.18
+ORD20261864,Bengaluru,Biryani,355.0,50,35,2,Debit Card,78.1
+ORD20261865,Delhi NCR,Chinese,300.0,0,31,3,UPI,66.0
+ORD20261866,Bengaluru,North Indian,483.0,50,21,5,UPI,106.26
+ORD20261867,Bengaluru,Chinese,236.0,100,29,5,Credit Card,51.92
+ORD20261868,Hyderabad,Pizza/Fast Food,558.0,200,32,3,Debit Card,122.76
+ORD20261869,Mumbai,South Indian,488.0,100,38,4,UPI,107.36
+ORD20261870,Delhi NCR,Biryani,299.0,0,15,4,UPI,65.78
+ORD20261871,Delhi NCR,Biryani,690.0,50,54,5,Debit Card,151.8
+ORD20261872,Hyderabad,Chinese,595.0,150,30,4,UPI,130.9
+ORD20261873,Hyderabad,North Indian,330.0,0,39,3,UPI,72.6
+ORD20261874,Delhi NCR,Desserts,412.0,200,45,5,UPI,90.64
+ORD20261875,Bengaluru,North Indian,406.0,200,32,5,UPI,89.32
+ORD20261876,Delhi NCR,South Indian,494.0,50,18,4,UPI,108.68
+ORD20261877,Mumbai,Chinese,574.0,0,48,4,Credit Card,126.28
+ORD20261878,Delhi NCR,Biryani,526.0,100,47,4,UPI,115.72
+ORD20261879,Bengaluru,North Indian,375.0,0,21,1,UPI,82.5
+ORD20261880,Delhi NCR,North Indian,467.0,0,48,3,UPI,102.74
+ORD20261881,Bengaluru,North Indian,196.0,200,32,4,UPI,43.12
+ORD20261882,Bengaluru,Chinese,500.0,0,52,4,Credit Card,110.0
+ORD20261883,Bengaluru,Pizza/Fast Food,222.0,0,47,3,Credit Card,48.84
+ORD20261884,Bengaluru,Chinese,676.0,200,35,1,Debit Card,148.72
+ORD20261885,Delhi NCR,Pizza/Fast Food,576.0,0,36,2,UPI,126.72
+ORD20261886,Delhi NCR,North Indian,296.0,0,15,4,Credit Card,65.12
+ORD20261887,Mumbai,Chinese,221.0,100,46,1,UPI,48.62
+ORD20261888,Delhi NCR,North Indian,442.0,0,16,4,UPI,97.24
+ORD20261889,Bengaluru,Pizza/Fast Food,533.0,200,40,4,Credit Card,117.26
+ORD20261890,Bengaluru,North Indian,421.0,50,34,4,UPI,92.62
+ORD20261891,Bengaluru,Pizza/Fast Food,235.0,0,44,5,UPI,51.7
+ORD20261892,Mumbai,Desserts,690.0,0,26,3,UPI,151.8
+ORD20261893,Mumbai,Desserts,333.0,50,43,4,Cash on Delivery,73.26
+ORD20261894,Bengaluru,Biryani,299.0,50,40,4,Cash on Delivery,65.78
+ORD20261895,Delhi NCR,Chinese,336.0,100,47,5,UPI,73.92
+ORD20261896,Delhi NCR,Pizza/Fast Food,458.0,150,47,5,Cash on Delivery,100.76
+ORD20261897,Hyderabad,Biryani,335.0,100,52,5,UPI,73.7
+ORD20261898,Bengaluru,Biryani,303.0,0,41,1,UPI,66.66
+ORD20261899,Delhi NCR,Biryani,440.0,50,41,4,UPI,96.8
+ORD20261900,Hyderabad,South Indian,453.0,50,52,4,UPI,99.66
+ORD20261901,Delhi NCR,Desserts,247.0,100,61,5,Credit Card,54.34
+ORD20261902,Mumbai,North Indian,328.0,150,44,2,UPI,72.16
+ORD20261903,Mumbai,North Indian,202.0,0,32,4,UPI,44.44
+ORD20261904,Bengaluru,Pizza/Fast Food,273.0,0,19,4,UPI,60.06
+ORD20261905,Delhi NCR,North Indian,338.0,100,33,5,UPI,74.36
+ORD20261906,Delhi NCR,Chinese,555.0,200,34,3,UPI,122.1
+ORD20261907,Bengaluru,North Indian,807.0,0,31,4,UPI,177.54
+ORD20261908,Bengaluru,Biryani,557.0,50,31,4,UPI,122.54
+ORD20261909,Mumbai,South Indian,503.0,0,31,5,UPI,110.66
+ORD20261910,Delhi NCR,North Indian,507.0,0,43,5,Cash on Delivery,111.54
+ORD20261911,Bengaluru,Chinese,289.0,0,47,4,Cash on Delivery,63.58
+ORD20261912,Delhi NCR,Pizza/Fast Food,268.0,100,15,4,UPI,58.96
+ORD20261913,Bengaluru,Desserts,429.0,0,34,5,UPI,94.38
+ORD20261914,Bengaluru,Desserts,543.0,0,31,3,Debit Card,119.46
+ORD20261915,Hyderabad,Desserts,493.0,50,40,3,Cash on Delivery,108.46
+ORD20261916,Bengaluru,Pizza/Fast Food,508.0,100,46,3,Debit Card,111.76
+ORD20261917,Delhi NCR,Pizza/Fast Food,468.0,0,31,2,Debit Card,102.96
+ORD20261918,Delhi NCR,Chinese,523.0,0,35,4,Credit Card,115.06
+ORD20261919,Delhi NCR,North Indian,404.0,50,27,4,UPI,88.88
+ORD20261920,Mumbai,Pizza/Fast Food,540.0,150,47,3,Cash on Delivery,118.8
+ORD20261921,Bengaluru,Pizza/Fast Food,420.0,0,23,3,UPI,92.4
+ORD20261922,Bengaluru,South Indian,299.0,0,49,2,UPI,65.78
+ORD20261923,Bengaluru,Pizza/Fast Food,186.0,150,37,4,UPI,40.92
+ORD20261924,Delhi NCR,North Indian,396.0,50,33,1,UPI,87.12
+ORD20261925,Hyderabad,North Indian,312.0,100,33,2,Credit Card,68.64
+ORD20261926,Bengaluru,Biryani,366.0,100,36,3,Credit Card,80.52
+ORD20261927,Bengaluru,South Indian,385.0,150,37,5,UPI,84.7
+ORD20261928,Hyderabad,Chinese,331.0,0,48,2,UPI,72.82
+ORD20261929,Bengaluru,South Indian,680.0,0,43,4,Credit Card,149.6
+ORD20261930,Delhi NCR,Chinese,526.0,100,54,4,Debit Card,115.72
+ORD20261931,Bengaluru,North Indian,463.0,50,42,5,UPI,101.86
+ORD20261932,Delhi NCR,North Indian,265.0,0,39,4,Debit Card,58.3
+ORD20261933,Bengaluru,North Indian,232.0,100,41,4,Debit Card,51.04
+ORD20261934,Delhi NCR,North Indian,149.0,50,47,4,UPI,32.78
+ORD20261935,Mumbai,South Indian,400.0,0,39,5,UPI,88.0
+ORD20261936,Bengaluru,Pizza/Fast Food,608.0,0,22,4,Debit Card,133.76
+ORD20261937,Bengaluru,Biryani,883.0,50,50,5,Cash on Delivery,194.26
+ORD20261938,Delhi NCR,North Indian,358.0,50,15,4,UPI,78.76
+ORD20261939,Hyderabad,Biryani,206.0,200,41,5,UPI,45.32
+ORD20261940,Hyderabad,North Indian,523.0,50,24,5,Debit Card,115.06
+ORD20261941,Hyderabad,Chinese,299.0,200,31,5,UPI,65.78
+ORD20261942,Delhi NCR,North Indian,234.0,0,30,5,UPI,51.48
+ORD20261943,Delhi NCR,Chinese,461.0,0,43,5,UPI,101.42
+ORD20261944,Mumbai,Pizza/Fast Food,715.0,100,29,4,UPI,157.3
+ORD20261945,Bengaluru,Pizza/Fast Food,345.0,200,53,4,Debit Card,75.9
+ORD20261946,Delhi NCR,Biryani,500.0,50,30,2,UPI,110.0
+ORD20261947,Mumbai,North Indian,283.0,0,35,5,Credit Card,62.26
+ORD20261948,Bengaluru,North Indian,506.0,200,43,5,UPI,111.32
+ORD20261949,Mumbai,Pizza/Fast Food,876.0,50,25,3,UPI,192.72
+ORD20261950,Delhi NCR,North Indian,864.0,100,41,5,UPI,190.08
+ORD20261951,Bengaluru,South Indian,383.0,100,15,5,UPI,84.26
+ORD20261952,Mumbai,North Indian,295.0,50,34,4,UPI,64.9
+ORD20261953,Delhi NCR,North Indian,282.0,0,58,5,UPI,62.04
+ORD20261954,Delhi NCR,Biryani,374.0,0,39,4,Credit Card,82.28
+ORD20261955,Delhi NCR,Pizza/Fast Food,734.0,0,34,2,Credit Card,161.48
+ORD20261956,Bengaluru,Chinese,238.0,50,46,4,Cash on Delivery,52.36
+ORD20261957,Bengaluru,South Indian,480.0,0,40,4,UPI,105.6
+ORD20261958,Delhi NCR,North Indian,245.0,50,34,5,Cash on Delivery,53.9
+ORD20261959,Delhi NCR,North Indian,387.0,100,38,5,UPI,85.14
+ORD20261960,Delhi NCR,Chinese,495.0,100,38,5,UPI,108.9
+ORD20261961,Bengaluru,Pizza/Fast Food,406.0,100,51,4,UPI,89.32
+ORD20261962,Bengaluru,South Indian,641.0,50,46,4,UPI,141.02
+ORD20261963,Bengaluru,Chinese,462.0,200,25,5,UPI,101.64
+ORD20261964,Mumbai,Biryani,520.0,200,25,4,UPI,114.4
+ORD20261965,Delhi NCR,Biryani,261.0,50,48,5,UPI,57.42
+ORD20261966,Mumbai,Biryani,564.0,0,38,4,Debit Card,124.08
+ORD20261967,Hyderabad,Chinese,779.0,50,44,3,UPI,171.38
+ORD20261968,Hyderabad,North Indian,316.0,200,55,1,Cash on Delivery,69.52
+ORD20261969,Bengaluru,North Indian,403.0,0,39,4,Cash on Delivery,88.66
+ORD20261970,Delhi NCR,North Indian,298.0,0,22,4,UPI,65.56
+ORD20261971,Hyderabad,North Indian,582.0,100,31,4,UPI,128.04
+ORD20261972,Bengaluru,Pizza/Fast Food,202.0,50,38,2,UPI,44.44
+ORD20261973,Delhi NCR,Biryani,506.0,150,59,3,Cash on Delivery,111.32
+ORD20261974,Mumbai,Biryani,583.0,50,35,5,UPI,128.26
+ORD20261975,Bengaluru,North Indian,387.0,0,49,5,Cash on Delivery,85.14
+ORD20261976,Hyderabad,North Indian,404.0,100,45,1,Credit Card,88.88
+ORD20261977,Bengaluru,Pizza/Fast Food,446.0,50,28,4,UPI,98.12
+ORD20261978,Bengaluru,South Indian,313.0,100,31,5,UPI,68.86
+ORD20261979,Delhi NCR,Pizza/Fast Food,302.0,0,41,5,Debit Card,66.44
+ORD20261980,Delhi NCR,North Indian,361.0,0,39,4,Credit Card,79.42
+ORD20261981,Hyderabad,Chinese,903.0,200,56,4,Cash on Delivery,198.66
+ORD20261982,Bengaluru,Biryani,487.0,0,38,4,UPI,107.14
+ORD20261983,Delhi NCR,Biryani,449.0,100,28,5,UPI,98.78
+ORD20261984,Delhi NCR,Biryani,231.0,0,45,5,UPI,50.82
+ORD20261985,Bengaluru,Biryani,605.0,50,32,3,UPI,133.1
+ORD20261986,Bengaluru,North Indian,374.0,100,44,5,UPI,82.28
+ORD20261987,Mumbai,North Indian,439.0,50,39,4,UPI,96.58
+ORD20261988,Bengaluru,South Indian,431.0,150,31,4,UPI,94.82
+ORD20261989,Hyderabad,Chinese,212.0,50,29,4,Cash on Delivery,46.64
+ORD20261990,Bengaluru,North Indian,500.0,200,36,2,UPI,110.0
+ORD20261991,Bengaluru,North Indian,680.0,0,32,2,Credit Card,149.6
+ORD20261992,Delhi NCR,Pizza/Fast Food,755.0,50,31,5,Credit Card,166.1
+ORD20261993,Mumbai,North Indian,499.0,200,39,4,UPI,109.78
+ORD20261994,Mumbai,Chinese,225.0,50,32,4,UPI,49.5
+ORD20261995,Bengaluru,Biryani,292.0,0,48,5,UPI,64.24
+ORD20261996,Bengaluru,Pizza/Fast Food,525.0,0,15,3,Credit Card,115.5
+ORD20261997,Bengaluru,North Indian,175.0,0,27,4,UPI,38.5
+ORD20261998,Mumbai,North Indian,291.0,50,41,4,UPI,64.02
+ORD20261999,Delhi NCR,Biryani,163.0,200,47,4,Cash on Delivery,35.86
